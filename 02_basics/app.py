@@ -100,4 +100,4 @@ if st.session_state.show_select:
         else:
             st.warning("Please fill in all your information.")
 
-        
+st.info("Thank you for using the Coffee Maker App!\nFeel free to explore more about it and happy coding!🚀\n- ***Prath-Digital*** 🧑🏻‍💻")        

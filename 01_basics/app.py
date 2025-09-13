@@ -15,3 +15,5 @@ if choice == "Other":
         st.success(f"Your favourite cold drink company is: {other_choice}")
 else:
     st.success(f"Your favourite cold drink company is: {choice}")
+
+st.info("Thank you for sharing your favourite cold drink company!\nFeel free to explore more about it and happy coding!🚀\n- ***Prath-Digital*** 🧑🏻‍💻")

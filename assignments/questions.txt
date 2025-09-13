@@ -2,3 +2,6 @@
     You have made a favourite cold drink choosing system, so like this make a favourite coding language choosing system
 
     ans link:  https://01-basics--assignment---prath-digital.streamlit.app/
+
+02_basics
+    Make a small calculator in that the current date is in the backend, when user selects dob, print the years, months, and days, it is also called as age calculator
