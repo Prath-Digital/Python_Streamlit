@@ -5,3 +5,8 @@
 
 02_basics
     Make a small calculator in that the current date is in the backend, when user selects dob, print the years, months, and days, it is also called as age calculator
+
+    ans link: https://02-basics--assignment---prath-digital.streamlit.app/
+
+03_intermediate
+    (Nothing)
