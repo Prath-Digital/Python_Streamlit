@@ -10,7 +10,7 @@ choice = st.selectbox("Choose your favourite cold drink company:", ["Coca Cola",
 if choice == "Other":
     other_choice = st.text_input("Please specify your favourite cold drink company:")
     if other_choice == "":
-        st.write("You did not specify any company.")
+        st.error("You did not specify any company.")
     else:
         st.write("Your favourite cold drink company is:", other_choice)
 else:
