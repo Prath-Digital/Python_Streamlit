@@ -12,6 +12,6 @@ if choice == "Other":
     if other_choice == "":
         st.error("You did not specify any company.")
     else:
-        st.success("Your favourite cold drink company is:", other_choice)
+        st.success(f"Your favourite cold drink company is: {other_choice}")
 else:
-    st.success("Your favourite cold drink company is:", choice)
+    st.success(f"Your favourite cold drink company is: {choice}")
