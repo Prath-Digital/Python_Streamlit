@@ -53,6 +53,12 @@ Welcome to the Python Streamlit repository! This project is designed to help you
 		 streamlit run app.py
 		 ```
 
+## Project Links
+
+| **Sr. No.** | **Project Name** | **Link** |
+| :---: | :---: | :---: |
+| 1 | Pr. 1 Todo List | [Pr. 1 Todo List](https://github.com/Prath-Digital/Pr.-1-Todo-List)
+
 ## Example Datasets
 
 - `coffee_sales.csv` is provided in both `04_advanced/Data/` and `Dashboard/Data/` for data visualization exercises.
