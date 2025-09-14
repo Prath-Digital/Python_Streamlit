@@ -24,7 +24,7 @@ st.markdown(
 # Load data with caching
 @st.cache_data
 def load_data():
-    return pd.read_csv("Data/coffee_sales.csv")
+    return pd.read_csv("Dashboard/Data/coffee_sales.csv")
 
 
 data = load_data()
