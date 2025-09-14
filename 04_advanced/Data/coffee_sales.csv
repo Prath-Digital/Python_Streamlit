@@ -1,0 +1,1501 @@
+Date,City,Coffee Type,Price,Cups Sold,Revenue
+2023-05-01,Manila,Café starfruit latte,2.09,17,35.53
+2023-05-28,Rome,Café gingerbread mocha,6.09,16,97.44
+2023-06-28,Tokyo,Café coconut latte,7.7,24,184.8
+2023-09-26,Rome,Café chamomile latte,4.92,14,68.88
+2023-07-21,Berlin,Café lavender latte,4.67,29,135.43
+2023-01-18,Jakarta,Café latte macchiato,2.88,13,37.44
+2023-10-02,Toronto,Café mangosteen latte,4.93,16,78.88
+2023-07-30,Dhaka,Café cannoli latte,2.21,25,55.25
+2023-12-30,Manila,Café caramel macchiato,2.15,53,113.95
+2023-10-01,Lagos,Café coconut latte,2.46,37,91.02
+2023-06-20,Istanbul,Café con Panna,6.29,15,94.35
+2023-10-24,Paris,Cappuccino,6.99,22,153.78
+2023-02-15,São Paulo,Café date latte,4.22,14,59.08
+2023-02-03,Hong Kong,Flat White,6.92,13,89.96
+2023-11-13,Istanbul,Café s'mores latte,6.3,33,207.9
+2023-09-28,Kuala Lumpur,Café hibiscus latte,4.25,19,80.75
+2023-03-01,Dhaka,Macchiato,1.66,12,19.92
+2023-04-02,Tokyo,Café con Panna,8.35,24,200.4
+2023-02-10,Delhi,Frappuccino,3.36,10,33.6
+2023-11-05,Berlin,Café chai latte,6.16,28,172.48
+2023-11-24,Bogotá,Café walnut latte,3.88,23,89.24
+2023-01-15,London,Macchiato,6.87,57,391.59
+2023-08-28,Beijing,Café mixed berry latte,5.55,11,61.05
+2023-10-31,Vienna,Café Miel,9.23,29,267.67
+2023-01-15,Bangalore,Café dulce de leche latte,2.56,12,30.72
+2023-11-05,Bangalore,Café caramel mocha,3.08,19,58.52
+2023-07-03,Casablanca,Café hazelnut mocha,3.6,15,54.0
+2023-09-21,Hanoi,Café Liégeois,3.68,8,29.44
+2023-07-24,Oslo,Café cherimoya latte,7.31,27,197.37
+2023-08-05,Hanoi,Cold Brew,2.85,51,145.35
+2023-12-29,New York,Café salak latte,6.95,28,194.6
+2023-01-17,Surat,Café mixed berry latte,1.98,6,11.88
+2023-02-25,Buenos Aires,Café cranberry latte,3.55,33,117.15
+2023-01-20,Oslo,Café salak latte,8.14,10,81.4
+2023-06-16,Bogotá,Cafe Cubano,4.42,11,48.62
+2023-05-02,Warsaw,Cafe Zorro,4.49,28,125.72
+2023-05-13,Paris,Café banana latte,8.31,27,224.37
+2023-10-26,Nairobi,Café cannoli latte,2.88,15,43.2
+2023-06-20,Bangalore,Frappuccino,2.95,11,32.45
+2023-11-24,Nairobi,Café lychee latte,2.43,10,24.3
+2023-07-06,Vienna,Café cannoli latte,5.15,17,87.55
+2023-01-12,Copenhagen,Café jasmine latte,6.97,25,174.25
+2023-10-28,Tokyo,Café rambutan latte,5.31,39,207.09
+2023-05-23,Oslo,Café clove latte,7.66,22,168.52
+2023-10-12,Auckland,Café honey almond latte,5.94,19,112.86
+2023-10-02,Mumbai,Café cherimoya latte,2.19,16,35.04
+2023-03-16,Nairobi,Frappuccino,3.74,18,67.32
+2023-11-27,Singapore,Flat White,5.33,18,95.94
+2023-07-19,Budapest,Café rambutan latte,2.86,28,80.08
+2023-10-31,Warsaw,Irish Coffee,4.62,14,64.68
+2023-05-27,Santiago,Café coconut cream latte,2.83,36,101.88
+2023-12-26,Auckland,Café frappé,7.48,32,239.36
+2023-01-29,Oslo,Cafe Cubano,9.3,25,232.5
+2023-12-06,Oslo,Café starfruit latte,5.91,10,59.1
+2023-06-23,Lisbon,Black Eye,2.52,28,70.56
+2023-09-21,Rome,Café rosehip latte,4.43,25,110.75
+2023-02-06,Dhaka,Café toffee nut latte,2.53,7,17.71
+2023-03-19,Melbourne,Café toffee nut latte,4.77,42,200.34
+2023-07-05,Athens,Café coconut cream latte,4.39,15,65.85
+2023-03-20,Hanoi,Café strawberry latte,3.12,10,31.2
+2023-08-23,Toronto,Café latte macchiato,7.1,11,78.1
+2023-07-23,Dhaka,Irish Coffee,2.99,20,59.8
+2023-02-16,Berlin,Bulletproof Coffee,7.46,12,89.52
+2023-05-29,Stockholm,Café mocha frappé,8.14,16,130.24
+2023-10-22,Istanbul,Café soursop latte,4.14,50,207.0
+2023-01-02,Rome,Café con Hielo,8.26,14,115.64
+2023-11-16,Dubai,Café lavender latte,7.78,33,256.74
+2023-11-04,Sydney,Café cinnamon roll latte,6.28,45,282.6
+2023-07-20,Riyadh,Café spiced turmeric latte,4.78,25,119.5
+2023-12-31,Lima,Café kumquat latte,3.69,19,70.11
+2023-07-25,Santiago,Macchiato,3.98,14,55.72
+2023-04-01,Beijing,Café chamomile latte,4.84,32,154.88
+2023-06-22,Toronto,Cafe con Leche,8.36,30,250.8
+2023-05-05,Bogotá,Café mixed berry latte,2.7,20,54.0
+2023-10-14,Mexico City,Café pistachio latte,2.82,18,50.76
+2023-10-10,Delhi,Café tres leches latte,2.35,20,47.0
+2023-08-14,Bangalore,Bulletproof Coffee,3.89,24,93.36
+2023-02-06,Oslo,Café caramel mocha,8.55,25,213.75
+2023-11-03,Hong Kong,Café tropical latte,6.14,28,171.92
+2023-06-05,Mumbai,Café tiramisu latte,2.63,16,42.08
+2023-12-11,Manila,Café banana latte,2.92,20,58.4
+2023-12-10,Surat,Café maple walnut latte,2.43,27,65.61
+2023-12-21,Lisbon,Café salak latte,4.76,32,152.32
+2023-05-01,Santiago,Café Miel,4.39,11,48.29
+2023-08-13,Beijing,Café honey almond latte,5.77,17,98.09
+2023-11-15,Lisbon,Espresso,3.92,28,109.76
+2023-08-29,Prague,Cold Brew,4.54,27,122.58
+2023-05-28,São Paulo,Café pomegranate latte,2.82,38,107.16
+2023-01-06,Singapore,Café pumpkin pie latte,8.01,15,120.15
+2023-03-09,Colombo,Café fig latte,1.79,15,26.85
+2023-06-11,Hong Kong,Café glacé,9.88,25,247.0
+2023-11-29,Surat,Espresso,1.49,11,16.39
+2023-03-29,Budapest,Café cinnamon mocha,4.54,30,136.2
+2023-02-13,Rome,Café pomegranate latte,4.21,10,42.1
+2023-11-15,Kuala Lumpur,Café pineapple latte,3.95,36,142.2
+2023-11-02,Zurich,Café breadfruit latte,6.57,33,216.81
+2023-08-30,Hong Kong,Cold Brew,9.0,25,225.0
+2023-07-19,Zurich,Café starfruit latte,7.57,30,227.1
+2023-03-18,Toronto,Café acai latte,5.89,16,94.24
+2023-10-04,Hong Kong,Café hibiscus latte,7.31,17,124.27
+2023-11-28,Madrid,Café coconut cream latte,4.39,10,43.9
+2023-07-14,London,Café starfruit latte,7.34,13,95.42
+2023-12-15,Singapore,Café macadamia latte,6.49,14,90.86
+2023-12-07,São Paulo,Café chamomile latte,3.5,32,112.0
+2023-11-13,Toronto,Cafe Breve,6.89,32,220.48
+2023-05-06,Rome,Café chamomile latte,6.4,21,134.4
+2023-12-27,Brussels,Café guava latte,5.09,31,157.79
+2023-01-01,Riyadh,Café peppermint latte,5.97,46,274.62
+2023-04-12,Casablanca,Café lemongrass latte,3.14,16,50.24
+2023-01-08,Jakarta,Café cinnamon mocha,3.64,34,123.76
+2023-01-26,Vienna,Irish Coffee,7.61,15,114.15
+2023-06-08,Lima,Café tiramisu latte,3.3,8,26.4
+2023-10-12,Tel Aviv,Americano,5.17,14,72.38
+2023-05-22,New York,Other,10.24,12,122.88
+2023-10-03,Stockholm,Café fig latte,6.09,25,152.25
+2023-04-03,Lagos,Café cinnamon mocha,2.27,16,36.32
+2023-09-25,Prague,Cafe Breve,7.09,15,106.35
+2023-02-03,Mumbai,Red Eye,1.48,7,10.36
+2023-02-27,Nairobi,Café chamomile latte,2.45,10,24.5
+2023-12-24,Berlin,Affogato,6.92,29,200.68
+2023-07-14,Stockholm,Café s'mores latte,6.48,11,71.28
+2023-02-17,Santiago,Café con Panna,6.04,17,102.68
+2023-06-04,Kuala Lumpur,Café acai latte,4.14,20,82.8
+2023-09-27,Hong Kong,Nitro Coffee,8.32,16,133.12
+2023-07-18,Dubai,Café pomegranate latte,7.43,11,81.73
+2023-04-09,Surat,Café Viennois,3.25,21,68.25
+2023-01-23,Casablanca,Cortado,2.8,24,67.2
+2023-12-03,Kuala Lumpur,Café chestnut latte,2.87,41,117.67
+2023-02-03,Hong Kong,Café Viennois,11.31,8,90.48
+2023-08-20,Kuala Lumpur,Café spiced mocha,3.87,33,127.71
+2023-09-26,Casablanca,Café spiced turmeric latte,3.24,27,87.48
+2023-01-26,Rome,Café quince latte,6.36,22,139.92
+2023-08-01,Istanbul,Café sapodilla latte,4.28,36,154.08
+2023-04-05,Stockholm,Café persimmon latte,6.74,20,134.8
+2023-07-31,Singapore,Café matcha latte,6.21,18,111.78
+2023-10-16,Nairobi,Café caramel macchiato,3.22,9,28.98
+2023-12-23,Colombo,Café cinnamon mocha,2.45,31,75.95
+2023-04-19,Kuala Lumpur,Café pineapple latte,3.55,25,88.75
+2023-08-03,Cairo,Café apple pie latte,2.81,23,64.63
+2023-07-30,Zurich,Café blackberry latte,8.2,35,287.0
+2023-02-07,Cape Town,Café gingerbread mocha,5.21,18,93.78
+2023-05-29,Cape Town,Café mocha frappé,4.14,11,45.54
+2023-04-21,Prague,Café Viennois,6.98,13,90.74
+2023-03-20,Budapest,Café clove latte,3.77,10,37.7
+2023-08-31,Mumbai,Café raspberry latte,2.63,24,63.12
+2023-07-25,Rome,Café mocha frappé,6.04,25,151.0
+2023-10-26,Mexico City,Café hazelnut mocha,4.12,16,65.92
+2023-04-12,Hanoi,Café durian latte,3.15,14,44.1
+2023-01-03,Colombo,Café rambutan latte,1.68,21,35.28
+2023-04-19,Colombo,Cold Brew,2.86,18,51.48
+2023-04-17,Bangalore,Turkish Coffee,3.1,8,24.8
+2023-09-21,Bogotá,Café macadamia latte,3.36,23,77.28
+2023-11-20,Johannesburg,Doppio,2.78,31,86.18
+2023-04-23,Shanghai,Café cannoli latte,4.38,49,214.62
+2023-07-25,Vienna,Café allspice latte,5.08,8,40.64
+2023-09-10,Budapest,Café raspberry latte,4.5,19,85.5
+2023-07-02,São Paulo,Café matcha latte,4.04,26,105.04
+2023-01-15,Rome,Café con Panna,6.29,31,194.99
+2023-12-14,Seoul,Café pistachio latte,5.36,26,139.36
+2023-03-14,Auckland,Café raspberry latte,4.41,28,123.48
+2023-05-16,Athens,Café coconut cream latte,3.63,20,72.6
+2023-05-28,Auckland,Ristretto,3.93,32,125.76
+2023-02-08,São Paulo,Café persimmon latte,3.33,22,73.26
+2023-05-26,Delhi,Café persimmon latte,2.04,14,28.56
+2023-08-17,Mumbai,Café earl grey latte,2.2,24,52.8
+2023-10-14,Athens,Latte,5.3,16,84.8
+2023-11-02,Warsaw,Café kumquat latte,3.57,26,92.82
+2023-11-24,Auckland,Café lychee latte,4.07,39,158.73
+2023-06-06,Budapest,Café rambutan latte,3.23,17,54.91
+2023-09-22,Hanoi,Café hazelnut mocha,3.78,13,49.14
+2023-12-19,Santiago,Cortado,4.19,32,134.08
+2023-10-29,Budapest,Café macadamia latte,3.39,17,57.63
+2023-06-25,Manila,Café dragon fruit latte,2.69,31,83.39
+2023-04-18,Istanbul,Café quince latte,4.73,26,122.98
+2023-07-04,Warsaw,Café mixed berry latte,4.09,16,65.44
+2023-09-16,Buenos Aires,Flat White,2.56,34,87.04
+2023-12-20,Auckland,Café toffee nut latte,4.6,19,87.4
+2023-12-06,Amsterdam,Café pumpkin spice latte,6.37,10,63.7
+2023-08-24,Taipei,Café dirty chai,7.28,24,174.72
+2023-05-07,Lagos,Other,2.45,20,49.0
+2023-06-14,Bangalore,Café nutmeg latte,2.42,22,53.24
+2023-04-26,Lagos,Americano,1.68,12,20.16
+2023-07-26,Athens,Café tres leches latte,3.6,24,86.4
+2023-05-25,Singapore,Café baklava latte,7.51,14,105.14
+2023-02-06,Riyadh,Café dark chocolate mocha,5.89,13,76.57
+2023-12-02,Johannesburg,Café rambutan latte,2.94,40,117.6
+2023-07-10,Lisbon,Café peppermint mocha,6.38,9,57.42
+2023-12-10,Manila,Café honey almond latte,2.51,37,92.87
+2023-05-21,Budapest,Café churro latte,3.55,30,106.5
+2023-01-24,Jakarta,Café Marocchino,3.64,19,69.16
+2023-07-07,Mumbai,Café lychee latte,3.05,23,70.15
+2023-05-31,Colombo,Café persimmon latte,1.65,14,23.1
+2023-02-08,Seoul,Café dark chocolate mocha,7.15,30,214.5
+2023-07-08,Melbourne,Café glacé,6.37,31,197.47
+2023-04-12,Riyadh,Café con Hielo,8.24,13,107.12
+2023-09-02,Madrid,Café earl grey latte,5.64,27,152.28
+2023-11-28,Singapore,Vienna Coffee,11.22,22,246.84
+2023-03-23,Warsaw,Café earl grey latte,3.22,16,51.52
+2023-08-27,London,Cafe Cubano,8.27,26,215.02
+2023-10-20,Bogotá,Café cranberry latte,3.31,8,26.48
+2023-03-11,Surat,Café oat latte,2.2,31,68.2
+2023-01-15,Brussels,Café vanilla latte,4.58,23,105.34
+2023-04-07,Taipei,Café pumpkin spice latte,4.15,15,62.25
+2023-11-28,Santiago,Café coconut cream latte,3.88,37,143.56
+2023-03-01,Istanbul,Café cranberry latte,5.17,9,46.53
+2023-04-24,Berlin,Café latte macchiato,6.78,28,189.84
+2023-10-29,Karachi,Café frappé,2.45,26,63.7
+2023-06-17,Warsaw,Cafe Breve,5.11,25,127.75
+2023-12-10,Riyadh,Café mango latte,4.0,36,144.0
+2023-01-15,Seoul,Café Marocchino,6.88,55,378.4
+2023-10-16,Cape Town,Café pumpkin spice latte,4.5,19,85.5
+2023-11-15,Colombo,Café blueberry latte,1.99,19,37.81
+2023-04-02,Karachi,Café pumpkin pie latte,1.88,29,54.52
+2023-08-26,São Paulo,Café cherimoya latte,4.31,19,81.89
+2023-09-03,Bangalore,Café pistachio latte,2.32,26,60.32
+2023-07-18,New York,Red Eye,4.28,20,85.6
+2023-08-31,Jakarta,Café honey almond latte,2.01,24,48.24
+2023-08-18,New York,Café pumpkin pie latte,9.08,16,145.28
+2023-08-03,São Paulo,Café cinnamon mocha,4.02,16,64.32
+2023-05-29,London,Café pistachio latte,8.09,22,177.98
+2023-04-15,Karachi,Café Touba,2.96,35,103.6
+2023-09-21,Bogotá,Red Eye,2.35,27,63.45
+2023-01-17,Bangalore,Café caramel macchiato,2.6,12,31.2
+2023-08-11,Colombo,Café fig latte,2.3,17,39.1
+2023-03-16,Brussels,Cortado,5.84,26,151.84
+2023-02-21,Sydney,Flat White,8.31,19,157.89
+2023-09-15,Athens,Café mangosteen latte,5.38,24,129.12
+2023-02-22,Bogotá,Café turmeric latte,2.63,26,68.38
+2023-02-16,Paris,Red Eye,4.95,21,103.95
+2023-07-03,Paris,Café maple walnut latte,6.91,15,103.65
+2023-04-27,Manila,Café chamomile latte,2.66,12,31.92
+2023-02-16,Lima,Cafe Cubano,3.66,17,62.22
+2023-04-25,Taipei,Café almond latte,4.43,25,110.75
+2023-05-07,Amsterdam,Café clove latte,4.81,27,129.87
+2023-04-30,Kuala Lumpur,Café baklava latte,4.39,35,153.65
+2023-09-02,Shanghai,Café passion fruit latte,4.24,46,195.04
+2023-06-20,Melbourne,Café golden latte,5.55,29,160.95
+2023-09-03,Rome,Café walnut latte,6.17,41,252.97
+2023-03-14,Taipei,Café breadfruit latte,4.33,23,99.59
+2023-11-04,Mexico City,Café spiced mocha,4.71,58,273.18
+2023-09-17,Athens,Café con Panna,7.34,44,322.96
+2023-11-28,Bogotá,Café soy latte,2.66,35,93.1
+2023-05-04,Amsterdam,Café blueberry latte,4.89,14,68.46
+2023-11-13,Hanoi,Other,4.35,37,160.95
+2023-08-04,Riyadh,Café lychee latte,5.84,27,157.68
+2023-02-15,Karachi,Café mangosteen latte,2.17,10,21.7
+2023-02-17,Shanghai,Café lavender latte,4.97,8,39.76
+2023-01-15,Singapore,Café rose latte,7.15,17,121.55
+2023-07-01,Cape Town,Café vanilla latte,4.14,38,157.32
+2023-06-06,Athens,Café blueberry latte,5.41,17,91.97
+2023-02-15,Dhaka,Café mocha frappé,2.95,17,50.15
+2023-12-09,Buenos Aires,Irish Coffee,4.41,28,123.48
+2023-11-26,Berlin,Café coconut latte,6.44,20,128.8
+2023-12-10,Lagos,Doppio,1.28,31,39.68
+2023-06-03,Bangalore,Café spiced turmeric latte,2.89,55,158.95
+2023-07-21,Berlin,Café caramel mocha,6.25,22,137.5
+2023-04-01,Cairo,Café royale,3.61,18,64.98
+2023-04-06,Stockholm,Café raspberry latte,6.99,23,160.77
+2023-11-09,Zurich,Black Eye,5.85,37,216.45
+2023-11-16,Santiago,Café matcha latte,2.97,15,44.55
+2023-04-23,Sydney,Café blackberry latte,7.6,18,136.8
+2023-10-23,Santiago,Café breadfruit latte,4.23,26,109.98
+2023-12-14,Rome,Café cinnamon roll latte,5.51,32,176.32
+2023-12-23,Riyadh,Café longan latte,5.49,45,247.05
+2023-04-16,Oslo,Iced Coffee,9.76,47,458.72
+2023-04-26,Mexico City,Café golden latte,2.81,15,42.15
+2023-05-10,Riyadh,Cafe Zorro,8.27,9,74.43
+2023-12-29,Shanghai,Café cardamom latte,6.25,14,87.5
+2023-04-24,Shanghai,Café dirty chai,8.83,24,211.92
+2023-04-16,Singapore,Café sapodilla latte,8.04,16,128.64
+2023-02-16,Buenos Aires,Café hazelnut latte,3.79,27,102.33
+2023-07-19,Manila,Café date latte,2.39,25,59.75
+2023-09-12,Buenos Aires,Café coconut cream latte,3.15,8,25.2
+2023-01-24,Tokyo,Café dulce de leche latte,7.91,34,268.94
+2023-06-21,Berlin,Café cardamom latte,4.47,18,80.46
+2023-07-18,New York,Café chai latte,7.83,28,219.24
+2023-11-02,Casablanca,Café ginger latte,3.56,35,124.6
+2023-07-01,Athens,Café turmeric ginger latte,5.77,20,115.4
+2023-10-22,Lima,Café peppermint latte,2.68,49,131.32
+2023-01-27,Riyadh,Café toffee nut latte,4.99,23,114.77
+2023-11-22,Lima,Café caramel macchiato,2.8,20,56.0
+2023-08-07,Taipei,Other,7.7,11,84.7
+2023-02-16,Budapest,Café nutmeg latte,4.32,8,34.56
+2023-10-10,Brussels,Café toffee nut latte,5.67,26,147.42
+2023-08-13,Bangkok,Café Touba,5.09,27,137.43
+2023-01-21,Lagos,Café baklava latte,1.65,16,26.4
+2023-02-14,Madrid,Cafe de Olla,8.8,20,176.0
+2023-04-15,Hanoi,Café gingerbread mocha,3.05,25,76.25
+2023-09-30,Zurich,Mocha,9.85,17,167.45
+2023-06-07,Shanghai,Café ginger latte,5.82,23,133.86
+2023-06-17,Brussels,Black Eye,2.81,31,87.11
+2023-05-03,Lisbon,Cappuccino,3.65,16,58.4
+2023-03-04,Singapore,Café cherimoya latte,7.86,48,377.28
+2023-05-07,Budapest,Café banana latte,2.97,48,142.56
+2023-08-10,Casablanca,Latte,2.52,27,68.04
+2023-12-30,Manila,Café coconut cream latte,2.82,53,149.46
+2023-04-19,Brussels,Ristretto,4.7,23,108.1
+2023-01-20,Budapest,Café churro latte,3.75,9,33.75
+2023-03-15,Nairobi,Café dulce de leche latte,2.46,15,36.9
+2023-01-24,Mexico City,Café dirty chai,4.57,27,123.39
+2023-02-05,Warsaw,Café turmeric ginger latte,3.7,39,144.3
+2023-09-28,Oslo,Café walnut latte,8.33,23,191.59
+2023-09-03,Oslo,Black Eye,5.4,46,248.4
+2023-06-25,Madrid,Café durian latte,5.63,43,242.09
+2023-04-09,Dubai,Café royale,9.59,29,278.11
+2023-06-25,Dhaka,Café chamomile latte,2.59,14,36.26
+2023-11-08,Amsterdam,Café banana latte,4.78,39,186.42
+2023-02-14,Buenos Aires,Ristretto,2.66,16,42.56
+2023-07-22,New York,Cafe au Lait,12.59,28,352.52
+2023-03-19,London,Café matcha latte,6.41,48,307.68
+2023-01-22,Athens,Café Touba,7.37,20,147.4
+2023-12-24,Bogotá,Café acai latte,3.78,62,234.36
+2023-01-07,London,Café blackberry latte,8.76,49,429.24
+2023-05-10,Johannesburg,Café blackberry latte,4.42,25,110.5
+2023-12-07,Surat,Cortado,2.36,31,73.16
+2023-03-26,Vienna,Café breadfruit latte,5.67,16,90.72
+2023-09-01,Casablanca,Café hibiscus latte,3.79,21,79.59
+2023-01-17,Buenos Aires,Black Eye,2.07,20,41.4
+2023-02-07,Auckland,Café dulce de leche latte,4.34,12,52.08
+2023-11-19,Cape Town,Café jasmine latte,3.06,52,159.12
+2023-03-10,Kuala Lumpur,Café caramel mocha,4.0,19,76.0
+2023-04-07,Santiago,Café flan latte,4.0,30,120.0
+2023-04-28,New York,Café raspberry latte,8.98,36,323.28
+2023-06-18,Toronto,Café durian latte,5.51,27,148.77
+2023-08-22,Bogotá,Iced Coffee,4.43,28,124.04
+2023-10-21,Hanoi,Café coconut latte,2.48,29,71.92
+2023-12-05,Warsaw,Café apple pie latte,3.62,32,115.84
+2023-09-08,Stockholm,Café lemongrass latte,5.39,9,48.51
+2023-12-17,Beijing,Café breadfruit latte,6.33,31,196.23
+2023-03-23,São Paulo,Café ginger latte,3.79,21,79.59
+2023-03-01,Lagos,Café cinnamon roll latte,1.96,20,39.2
+2023-06-06,London,Café Bombón,10.45,33,344.85
+2023-05-14,Kathmandu,Café tiramisu latte,2.06,33,67.98
+2023-05-29,Manila,Café rose latte,2.55,17,43.35
+2023-08-24,Kathmandu,Café churro latte,2.35,29,68.15
+2023-09-09,Jakarta,Espresso,1.56,18,28.08
+2023-10-14,Taipei,Other,6.48,15,97.2
+2023-08-30,Budapest,Espresso,2.46,16,39.36
+2023-05-17,Berlin,Café coconut cream latte,7.0,29,203.0
+2023-10-09,Bangalore,Café blackberry latte,2.31,20,46.2
+2023-11-18,Singapore,Cafe con Leche,7.54,26,196.04
+2023-08-21,Brussels,Latte,5.02,21,105.42
+2023-11-13,Hong Kong,Café tiramisu latte,5.86,16,93.76
+2023-08-16,Bangalore,Café turmeric ginger latte,2.24,6,13.44
+2023-07-25,Hanoi,Café turmeric latte,3.01,19,57.19
+2023-03-25,Toronto,Café matcha latte,5.3,39,206.7
+2023-07-13,Lisbon,Café spiced turmeric latte,5.08,42,213.36
+2023-10-05,Tel Aviv,Café peppermint mocha,9.26,26,240.76
+2023-11-04,Johannesburg,Café dragon fruit latte,3.94,26,102.44
+2023-05-05,Beijing,Café tropical latte,5.17,11,56.87
+2023-07-13,Auckland,Café con Hielo,8.18,15,122.7
+2023-02-24,Taipei,Café Viennois,8.03,11,88.33
+2023-09-04,Seoul,Café cinnamon roll latte,5.35,14,74.9
+2023-06-21,Singapore,Café starfruit latte,5.22,20,104.4
+2023-04-21,Lisbon,Café lychee latte,4.38,14,61.32
+2023-06-30,Melbourne,Nitro Coffee,7.5,13,97.5
+2023-04-07,Buenos Aires,Café cannoli latte,2.62,15,39.3
+2023-02-06,Brussels,Café macadamia latte,5.86,8,46.88
+2023-11-15,Singapore,Café clove latte,7.24,29,209.96
+2023-07-05,Mumbai,Bulletproof Coffee,3.02,10,30.2
+2023-10-12,Zurich,Café Marocchino,8.51,19,161.69
+2023-03-05,Dhaka,Café earl grey latte,1.68,16,26.88
+2023-04-19,Lima,Café mixed berry latte,2.41,18,43.38
+2023-04-09,New York,Café soy latte,6.62,44,291.28
+2023-10-26,Oslo,Cafe de Olla,10.22,28,286.16
+2023-12-16,Delhi,Iced Coffee,3.08,52,160.16
+2023-02-26,Colombo,Cafe Cubano,2.62,30,78.6
+2023-10-18,Vienna,Café s'mores latte,6.41,17,108.97
+2023-05-28,Riyadh,Café lychee latte,6.39,24,153.36
+2023-10-11,Hanoi,Café Miel,3.71,24,89.04
+2023-12-15,Toronto,Café pumpkin pie latte,6.35,35,222.25
+2023-05-15,Stockholm,Café lavender latte,6.4,25,160.0
+2023-08-29,Amsterdam,Cafe con Leche,9.31,19,176.89
+2023-05-10,Jakarta,Café banana latte,2.26,16,36.16
+2023-06-16,Buenos Aires,Red Eye,2.26,13,29.38
+2023-05-20,Taipei,Café blueberry latte,3.75,19,71.25
+2023-03-12,Santiago,Café chai latte,4.3,20,86.0
+2023-04-06,Riyadh,Café passion fruit latte,5.97,16,95.52
+2023-04-10,Oslo,Cold Brew,8.16,11,89.76
+2023-08-10,Rome,Café date latte,5.73,30,171.9
+2023-01-01,Mumbai,Café Touba,4.18,13,54.34
+2023-10-23,Bogotá,Café almond latte,2.93,13,38.09
+2023-02-22,Sydney,Café Marocchino,10.79,30,323.7
+2023-01-01,Prague,Café lemongrass latte,3.94,50,197.0
+2023-04-05,Toronto,Café saffron latte,7.12,27,192.24
+2023-10-06,Athens,Café pomegranate latte,4.85,16,77.6
+2023-03-07,Colombo,Café cinnamon mocha,2.54,21,53.34
+2023-03-22,Kathmandu,Café sapodilla latte,2.1,19,39.9
+2023-04-28,Delhi,Café acai latte,2.87,8,22.96
+2023-08-13,Santiago,Café longan latte,3.56,47,167.32
+2023-05-12,Bogotá,Café frappé,3.31,11,36.41
+2023-05-27,Cape Town,Café lemongrass latte,4.34,31,134.54
+2023-06-16,Istanbul,Café tiramisu latte,5.63,32,180.16
+2023-06-23,Lima,Café date latte,3.16,18,56.88
+2023-08-05,Seoul,Café royale,7.5,48,360.0
+2023-09-24,Melbourne,Cappuccino,6.05,46,278.3
+2023-07-04,Bangkok,Cafe Zorro,4.92,27,132.84
+2023-08-01,Vienna,Café white chocolate mocha,7.75,14,108.5
+2023-07-23,London,Café pumpkin spice latte,7.91,22,174.02
+2023-02-07,Beijing,Café cinnamon roll latte,5.03,17,85.51
+2023-03-30,Delhi,Café dirty chai,3.02,12,36.24
+2023-07-24,Vienna,Café jasmine latte,4.89,30,146.7
+2023-11-10,Karachi,Café lychee latte,2.49,26,64.74
+2023-10-14,Seoul,Café tiramisu latte,4.75,32,152.0
+2023-11-10,Lisbon,Café quince latte,5.19,33,171.27
+2023-06-29,Hong Kong,Cafe Cubano,11.93,20,238.6
+2023-12-07,Istanbul,Café gingerbread mocha,6.23,42,261.66
+2023-02-10,Cairo,Cafe con Leche,4.49,14,62.86
+2023-07-09,Dubai,Café vanilla latte,7.59,29,220.11
+2023-10-27,Hong Kong,Café tres leches latte,6.96,14,97.44
+2023-01-12,Shanghai,Café flan latte,5.9,29,171.1
+2023-11-30,Melbourne,Café lychee latte,4.87,39,189.93
+2023-06-10,Cape Town,Café hazelnut mocha,4.18,49,204.82
+2023-06-20,São Paulo,Café dirty chai,6.14,17,104.38
+2023-07-31,Tel Aviv,Café ginger latte,7.05,19,133.95
+2023-06-25,London,Café glacé,9.56,44,420.64
+2023-07-31,Sydney,Cortado,6.14,29,178.06
+2023-04-30,Colombo,Café cherimoya latte,1.77,15,26.55
+2023-03-16,Sydney,Macchiato,8.02,20,160.4
+2023-04-04,Prague,Café raspberry latte,4.67,23,107.41
+2023-03-18,São Paulo,Café allspice latte,3.45,26,89.7
+2023-08-27,Oslo,Café dark chocolate mocha,8.72,37,322.64
+2023-10-19,Taipei,Café lemongrass latte,3.93,12,47.16
+2023-10-23,São Paulo,Flat White,3.96,21,83.16
+2023-10-23,Casablanca,Café Bombón,4.19,21,87.99
+2023-03-03,Santiago,Cold Brew,4.74,17,80.58
+2023-07-28,Paris,Café turmeric latte,7.58,17,128.86
+2023-04-04,Berlin,Café spiced turmeric latte,4.63,27,125.01
+2023-06-17,London,Café raspberry latte,8.0,25,200.0
+2023-03-11,Mexico City,Café golden latte,4.53,16,72.48
+2023-08-02,Copenhagen,Café hazelnut latte,6.33,16,101.28
+2023-04-04,Brussels,Café pumpkin pie latte,6.26,11,68.86
+2023-05-28,Beijing,Affogato,7.23,21,151.83
+2023-10-11,Madrid,Café pumpkin pie latte,5.71,23,131.33
+2023-04-28,Paris,Café cannoli latte,7.69,22,169.18
+2023-03-11,London,Café white chocolate mocha,8.19,40,327.6
+2023-07-19,Bogotá,Café macadamia latte,3.47,29,100.63
+2023-11-14,Berlin,Black Eye,3.34,11,36.74
+2023-07-15,Kuala Lumpur,Café Liégeois,4.54,36,163.44
+2023-04-16,Beijing,Café kumquat latte,4.61,32,147.52
+2023-11-04,Singapore,Café dirty chai,10.4,32,332.8
+2023-04-24,Surat,Café peppermint latte,2.49,21,52.29
+2023-08-21,Riyadh,Café Liégeois,8.24,22,181.28
+2023-09-11,Budapest,Café oat latte,3.45,9,31.05
+2023-01-28,Nairobi,Café cherimoya latte,2.16,39,84.24
+2023-08-24,London,Café earl grey latte,7.05,30,211.5
+2023-11-18,Singapore,Café ginger latte,6.47,62,401.14
+2023-05-06,Cairo,Café date latte,2.2,18,39.6
+2023-10-28,São Paulo,Café lemongrass latte,3.15,49,154.35
+2023-01-11,Beijing,Café Viennois,6.24,30,187.2
+2023-11-27,Vienna,Café date latte,5.02,33,165.66
+2023-08-11,Stockholm,Café frappé,7.77,26,202.02
+2023-07-18,Surat,Café Touba,3.3,22,72.6
+2023-06-21,Singapore,Café jasmine latte,5.65,9,50.85
+2023-01-11,Budapest,Café rosehip latte,3.18,28,89.04
+2023-04-02,Beijing,Bulletproof Coffee,8.93,24,214.32
+2023-09-10,Mumbai,Café ginger latte,2.14,37,79.18
+2023-02-07,Buenos Aires,Café butter pecan latte,2.95,16,47.2
+2023-04-04,Dubai,Café flan latte,6.7,20,134.0
+2023-07-28,Auckland,Café allspice latte,4.61,16,73.76
+2023-10-05,Zurich,Café pineapple latte,7.06,24,169.44
+2023-08-11,Tokyo,Café cinnamon mocha,8.22,30,246.6
+2023-03-14,Sydney,Café latte macchiato,6.83,19,129.77
+2023-11-16,Istanbul,Café blueberry latte,4.6,31,142.6
+2023-09-21,New York,Café London fog,11.23,10,112.3
+2023-12-02,Madrid,Café lavender latte,4.72,41,193.52
+2023-04-02,Madrid,Café cannoli latte,4.27,42,179.34
+2023-09-03,Jakarta,Café blueberry latte,2.01,20,40.2
+2023-06-29,Sydney,Café jackfruit latte,6.7,9,60.3
+2023-09-10,Beijing,Café matcha latte,5.28,19,100.32
+2023-03-27,Hanoi,Cafe con Leche,4.23,15,63.45
+2023-04-06,Zurich,Café con Panna,12.44,25,311.0
+2023-07-24,Kathmandu,Café turmeric latte,1.89,11,20.79
+2023-05-13,Prague,Café con Hielo,5.57,42,233.94
+2023-11-01,Zurich,Café starfruit latte,7.6,39,296.4
+2023-11-21,Auckland,Mocha,7.2,14,100.8
+2023-02-03,Mumbai,Café clove latte,2.5,11,27.5
+2023-06-08,Kathmandu,Café kumquat latte,2.0,17,34.0
+2023-07-21,Seoul,Nitro Coffee,6.44,9,57.96
+2023-11-09,Paris,Café banana latte,5.44,23,125.12
+2023-11-06,Berlin,Café mocha frappé,7.39,11,81.29
+2023-03-02,Riyadh,Café vanilla latte,4.27,26,111.02
+2023-05-21,Singapore,Café s'mores latte,6.98,19,132.62
+2023-10-28,Bogotá,Café white chocolate mocha,4.45,26,115.7
+2023-12-02,Bangalore,Café spiced mocha,3.05,28,85.4
+2023-04-09,Paris,Ristretto,4.58,27,123.66
+2023-11-22,Brussels,Café frappé,7.63,33,251.79
+2023-04-06,Warsaw,Café caramel mocha,4.43,29,128.47
+2023-03-30,Auckland,Café saffron latte,5.17,24,124.08
+2023-05-04,Delhi,Café pumpkin spice latte,3.18,8,25.44
+2023-09-26,Hanoi,Affogato,3.25,26,84.5
+2023-09-07,Cape Town,Café cinnamon mocha,4.04,11,44.44
+2023-03-07,Taipei,Café s'mores latte,5.14,15,77.1
+2023-11-03,Bogotá,Café strawberry latte,2.5,28,70.0
+2023-06-22,Amsterdam,Café almond latte,7.35,20,147.0
+2023-03-22,Bangkok,Café dark chocolate mocha,3.49,8,27.92
+2023-07-16,London,Café churro latte,8.61,60,516.6
+2023-12-09,Lagos,Café lemongrass latte,2.26,44,99.44
+2023-07-02,Kathmandu,Café cranberry latte,1.8,33,59.4
+2023-06-24,Cape Town,Doppio,3.05,34,103.7
+2023-09-17,Bangalore,Café breadfruit latte,2.9,12,34.8
+2023-05-12,Bangkok,Frappuccino,4.27,15,64.05
+2023-04-18,Dubai,Café golden latte,7.64,24,183.36
+2023-07-21,Melbourne,Café mocha frappé,7.34,18,132.12
+2023-02-12,Buenos Aires,Café con Hielo,5.18,36,186.48
+2023-09-07,Lagos,Café hazelnut mocha,2.51,29,72.79
+2023-01-22,London,Café butter pecan latte,7.42,20,148.4
+2023-02-07,Sydney,Café royale,9.53,13,123.89
+2023-01-13,Athens,Café soursop latte,5.45,22,119.9
+2023-02-21,New York,Café strawberry latte,8.12,24,194.88
+2023-10-16,Paris,Doppio,4.55,18,81.9
+2023-02-15,Tel Aviv,Café lychee latte,6.62,19,125.78
+2023-11-18,Lima,Café toffee nut latte,2.65,55,145.75
+2023-08-16,Delhi,Americano,1.96,19,37.24
+2023-04-30,Istanbul,Café caramel macchiato,5.34,40,213.6
+2023-07-16,Copenhagen,Affogato,9.7,36,349.2
+2023-01-27,Johannesburg,Cortado,3.81,13,49.53
+2023-10-25,Oslo,Café banana latte,8.6,16,137.6
+2023-06-12,Amsterdam,Irish Coffee,9.36,29,271.44
+2023-04-15,Rome,Café con Hielo,7.76,20,155.2
+2023-07-24,Lisbon,Café pineapple latte,4.25,22,93.5
+2023-06-01,Bangalore,Turkish Coffee,3.3,20,66.0
+2023-12-09,Dhaka,Irish Coffee,2.52,27,68.04
+2023-08-30,Berlin,Café pumpkin pie latte,6.21,14,86.94
+2023-03-06,Bogotá,Café caramel mocha,4.13,26,107.38
+2023-11-18,Seoul,Café royale,7.78,57,443.46
+2023-08-05,Dubai,Café saffron latte,6.23,34,211.82
+2023-09-28,Karachi,Café pumpkin pie latte,2.57,14,35.98
+2023-06-18,Hong Kong,Café vanilla latte,8.57,30,257.1
+2023-06-15,Copenhagen,Café mocha frappé,9.07,13,117.91
+2023-11-05,Auckland,Café chestnut latte,5.14,49,251.86
+2023-08-25,Bangalore,Café caramel macchiato,2.01,15,30.15
+2023-07-08,Copenhagen,Café lemongrass latte,8.04,23,184.92
+2023-06-24,Istanbul,Café maple walnut latte,6.04,18,108.72
+2023-02-07,Taipei,Café butter pecan latte,5.51,10,55.1
+2023-08-03,Singapore,Café clove latte,5.21,15,78.15
+2023-04-29,Istanbul,Café longan latte,5.85,38,222.3
+2023-07-23,Dubai,Cold Brew,7.5,69,517.5
+2023-06-06,Lagos,Café persimmon latte,2.16,21,45.36
+2023-04-10,Manila,Café breadfruit latte,3.2,23,73.6
+2023-11-13,Taipei,Café Miel,6.4,39,249.6
+2023-08-09,Taipei,Café cinnamon mocha,6.81,20,136.2
+2023-08-21,Athens,Café blackberry latte,5.62,12,67.44
+2023-11-12,Sydney,Café date latte,8.0,49,392.0
+2023-03-01,Bogotá,Café churro latte,3.53,15,52.95
+2023-08-26,Bogotá,Café Viennois,3.98,39,155.22
+2023-08-15,Rome,Cafe Zorro,8.18,27,220.86
+2023-04-05,Singapore,Café royale,9.41,14,131.74
+2023-12-29,Buenos Aires,Café toffee nut latte,2.43,22,53.46
+2023-04-06,Dubai,Café maple walnut latte,6.61,8,52.88
+2023-07-04,Singapore,Café caramel macchiato,6.5,13,84.5
+2023-11-23,Berlin,Café pumpkin spice latte,6.91,16,110.56
+2023-02-25,Kuala Lumpur,Café Marocchino,4.29,41,175.89
+2023-08-20,Manila,Café salak latte,2.38,37,88.06
+2023-02-26,Athens,Café pineapple latte,5.45,43,234.35
+2023-09-22,Santiago,Latte,4.51,22,99.22
+2023-04-07,Delhi,Café earl grey latte,2.3,16,36.8
+2023-01-04,Zurich,Café blackberry latte,6.97,30,209.1
+2023-12-06,Seoul,Latte,4.53,13,58.89
+2023-07-21,Copenhagen,Americano,5.78,11,63.58
+2023-05-11,Tel Aviv,Cafe Breve,7.48,27,201.96
+2023-12-02,Tokyo,Café nutmeg latte,7.95,70,556.5
+2023-04-09,Auckland,Café raspberry latte,6.37,29,184.73
+2023-08-25,Beijing,Other,7.36,10,73.6
+2023-05-10,Casablanca,Macchiato,2.65,14,37.1
+2023-11-08,Dubai,Café dulce de leche latte,5.62,10,56.2
+2023-11-03,Bangalore,Cafe au Lait,3.79,22,83.38
+2023-08-12,Tel Aviv,Café frappé,6.93,25,173.25
+2023-06-24,Rome,Café caramel macchiato,5.51,37,203.87
+2023-10-08,Stockholm,Café soursop latte,6.74,26,175.24
+2023-10-15,Karachi,Nitro Coffee,2.86,26,74.36
+2023-01-07,Warsaw,Café pecan latte,4.54,44,199.76
+2023-07-28,Tel Aviv,Café jackfruit latte,5.27,29,152.83
+2023-06-12,Brussels,Café acai latte,5.51,24,132.24
+2023-03-29,Bangalore,Café Marocchino,3.16,16,50.56
+2023-01-11,London,Cortado,6.53,26,169.78
+2023-06-01,Dubai,Café pumpkin pie latte,5.32,16,85.12
+2023-02-24,Singapore,Café Marocchino,10.45,12,125.4
+2023-10-27,Santiago,Iced Coffee,5.15,27,139.05
+2023-10-07,Bangalore,Café guava latte,3.23,36,116.28
+2023-12-10,Sydney,Café hibiscus latte,6.37,57,363.09
+2023-01-02,Bogotá,Café pineapple latte,3.03,27,81.81
+2023-04-22,Lagos,Café caramel mocha,2.28,40,91.2
+2023-07-08,Jakarta,Café white chocolate mocha,3.76,41,154.16
+2023-09-15,Kuala Lumpur,Café chamomile latte,3.6,26,93.6
+2023-12-13,Beijing,Café hibiscus latte,6.44,24,154.56
+2023-12-20,Seoul,Café raspberry latte,6.38,24,153.12
+2023-06-17,Madrid,Café cardamom latte,6.45,29,187.05
+2023-11-18,Brussels,Iced Coffee,8.26,59,487.34
+2023-06-12,Berlin,Turkish Coffee,7.05,15,105.75
+2023-09-09,Mumbai,Cafe Zorro,3.99,37,147.63
+2023-10-19,Taipei,Café pineapple latte,4.09,17,69.53
+2023-12-24,London,Café con Panna,9.01,67,603.67
+2023-07-21,Brussels,Café cherimoya latte,5.43,11,59.73
+2023-04-06,Dhaka,Café cinnamon mocha,2.98,16,47.68
+2023-10-23,Cairo,Espresso,2.07,16,33.12
+2023-04-06,Delhi,Café glacé,3.13,10,31.3
+2023-10-14,Karachi,Café dragon fruit latte,1.94,28,54.32
+2023-03-03,Sydney,Café royale,9.27,17,157.59
+2023-05-25,London,Café allspice latte,7.51,28,210.28
+2023-05-10,Sydney,Café butter pecan latte,6.29,20,125.8
+2023-10-25,Kuala Lumpur,Black Eye,3.09,13,40.17
+2023-01-27,Lagos,Red Eye,1.46,22,32.12
+2023-06-13,Sydney,Café banana latte,7.48,18,134.64
+2023-08-13,Singapore,Café ginger latte,6.63,24,159.12
+2023-02-17,Zurich,Café guava latte,9.07,11,99.77
+2023-11-21,Brussels,Café cherimoya latte,5.13,11,56.43
+2023-06-25,New York,Café pumpkin pie latte,8.61,46,396.06
+2023-03-20,Stockholm,Café earl grey latte,7.87,29,228.23
+2023-04-06,Amsterdam,Café dulce de leche latte,5.64,23,129.72
+2023-01-11,Lima,Café chestnut latte,2.94,9,26.46
+2023-06-14,Dubai,Café royale,11.44,15,171.6
+2023-03-29,Zurich,Café kumquat latte,7.89,18,142.02
+2023-02-20,Jakarta,Café cannoli latte,2.13,19,40.47
+2023-11-19,Dhaka,Café jasmine latte,2.14,15,32.1
+2023-01-24,Warsaw,Café strawberry latte,2.92,18,52.56
+2023-04-29,Beijing,Café clove latte,5.73,49,280.77
+2023-09-29,Mexico City,Café tiramisu latte,3.85,24,92.4
+2023-04-16,Surat,Café cannoli latte,2.38,22,52.36
+2023-09-20,Hong Kong,Macchiato,6.58,30,197.4
+2023-07-15,Bangkok,Mocha,4.6,19,87.4
+2023-07-05,New York,Café turmeric latte,7.14,24,171.36
+2023-02-26,Paris,Cafe de Olla,9.46,49,463.54
+2023-12-31,Amsterdam,Café starfruit latte,7.12,42,299.04
+2023-04-24,Dubai,Café peppermint latte,7.79,9,70.11
+2023-10-13,Buenos Aires,Café ginger latte,3.82,8,30.56
+2023-03-12,Paris,Café rose latte,8.0,33,264.0
+2023-09-05,Casablanca,Café vanilla latte,3.76,16,60.16
+2023-03-21,Mumbai,Bulletproof Coffee,4.2,20,84.0
+2023-01-18,Paris,Café pineapple latte,5.68,24,136.32
+2023-12-25,Berlin,Café oat latte,6.68,37,247.16
+2023-06-23,Buenos Aires,Café pumpkin pie latte,3.26,12,39.12
+2023-05-25,Dhaka,Café hibiscus latte,1.97,23,45.31
+2023-02-14,Istanbul,Café lavender latte,5.25,10,52.5
+2023-09-18,Lisbon,Café spiced turmeric latte,4.96,16,79.36
+2023-08-08,Santiago,Café rosehip latte,2.92,14,40.88
+2023-04-16,Toronto,Café vanilla latte,5.71,38,216.98
+2023-07-27,Nairobi,Café cinnamon roll latte,2.38,12,28.56
+2023-04-02,Tel Aviv,Café hibiscus latte,6.54,16,104.64
+2023-05-19,Vienna,Café persimmon latte,5.75,17,97.75
+2023-03-17,Riyadh,Cafe de Olla,7.23,22,159.06
+2023-12-05,Mumbai,Cappuccino,2.01,23,46.23
+2023-02-23,Toronto,Café durian latte,6.4,17,108.8
+2023-10-12,Shanghai,Café lychee latte,5.77,26,150.02
+2023-12-06,Singapore,Café blueberry latte,6.87,29,199.23
+2023-09-17,Amsterdam,Café churro latte,6.85,50,342.5
+2023-05-01,Casablanca,Irish Coffee,3.9,10,39.0
+2023-01-04,Istanbul,Macchiato,4.87,24,116.88
+2023-07-16,New York,Café pistachio latte,7.44,39,290.16
+2023-12-20,Kathmandu,Iced Coffee,2.63,22,57.86
+2023-10-23,Berlin,Café jasmine latte,6.38,15,95.7
+2023-05-13,Cape Town,Irish Coffee,5.52,44,242.88
+2023-11-14,Rome,Café lavender latte,4.83,16,77.28
+2023-08-24,Kathmandu,Café dark chocolate mocha,2.59,28,72.52
+2023-10-07,Karachi,Café date latte,1.83,31,56.73
+2023-02-03,Warsaw,Other,4.39,24,105.36
+2023-12-20,Amsterdam,Café flan latte,7.08,15,106.2
+2023-04-06,Buenos Aires,Café lavender latte,3.15,27,85.05
+2023-10-23,Oslo,Café clove latte,5.41,28,151.48
+2023-08-20,Zurich,Café durian latte,8.43,44,370.92
+2023-07-31,London,Café peppermint mocha,9.69,25,242.25
+2023-07-13,Sydney,Red Eye,4.0,21,84.0
+2023-03-09,Lagos,Café chamomile latte,1.73,30,51.9
+2023-12-02,Vienna,Café London fog,9.46,24,227.04
+2023-07-26,Cape Town,Café dragon fruit latte,3.56,10,35.6
+2023-10-10,Tokyo,Café Viennois,9.7,30,291.0
+2023-03-04,London,Café soy latte,5.9,28,165.2
+2023-02-18,Bangalore,Bulletproof Coffee,4.1,21,86.1
+2023-08-04,Dubai,Espresso,4.93,15,73.95
+2023-08-28,Hanoi,Café earl grey latte,2.28,27,61.56
+2023-06-25,Brussels,Café dragon fruit latte,5.2,35,182.0
+2023-11-02,Zurich,Café jasmine latte,6.54,36,235.44
+2023-02-24,Warsaw,Café gingerbread mocha,4.63,24,111.12
+2023-04-16,Stockholm,Café Touba,10.82,20,216.4
+2023-09-11,Athens,Café mocha frappé,6.63,23,152.49
+2023-03-06,Tokyo,Café longan latte,7.73,20,154.6
+2023-11-25,Paris,Café coconut latte,6.88,20,137.6
+2023-04-11,Sydney,Café latte macchiato,5.49,11,60.39
+2023-08-10,São Paulo,Café ginger latte,3.7,13,48.1
+2023-07-06,Auckland,Café earl grey latte,6.29,20,125.8
+2023-05-22,Bangkok,Café lychee latte,2.83,16,45.28
+2023-06-28,Karachi,Café Miel,3.17,15,47.55
+2023-09-17,Surat,Café nutmeg latte,1.61,27,43.47
+2023-06-01,Lima,Cafe Zorro,4.86,21,102.06
+2023-01-15,Surat,Café hazelnut latte,1.7,26,44.2
+2023-07-21,Warsaw,Café saffron latte,3.37,20,67.4
+2023-04-17,Oslo,Café rose latte,6.15,17,104.55
+2023-10-22,Dubai,Café gingerbread mocha,10.17,19,193.23
+2023-04-03,Bangalore,Black Eye,1.39,15,20.85
+2023-05-31,Taipei,Café white chocolate mocha,7.17,9,64.53
+2023-02-23,Brussels,Café cannoli latte,6.39,12,76.68
+2023-03-19,Prague,Cafe Cubano,6.05,40,242.0
+2023-03-06,Delhi,Flat White,2.89,19,54.91
+2023-06-25,Bangalore,Red Eye,1.73,24,41.52
+2023-05-18,Nairobi,Cafe Zorro,4.43,17,75.31
+2023-09-12,Lima,Café quince latte,3.87,23,89.01
+2023-07-26,Dhaka,Café caramel macchiato,2.23,12,26.76
+2023-02-15,Cairo,Café frappé,3.67,29,106.43
+2023-07-13,Karachi,Café churro latte,2.06,17,35.02
+2023-02-01,Hanoi,Café toffee nut latte,2.82,15,42.3
+2023-11-05,Zurich,Café golden latte,7.37,46,339.02
+2023-07-26,Prague,Café cherimoya latte,3.49,16,55.84
+2023-07-24,Dubai,Café blueberry latte,5.74,26,149.24
+2023-03-12,Mexico City,Café jasmine latte,3.07,19,58.33
+2023-01-18,Bangalore,Café cherimoya latte,2.59,8,20.72
+2023-09-26,Surat,Café breadfruit latte,2.29,11,25.19
+2023-12-29,Seoul,Café Touba,7.7,40,308.0
+2023-09-14,Santiago,Café vanilla latte,3.92,19,74.48
+2023-12-31,Taipei,Café almond latte,4.78,65,310.7
+2023-09-26,Johannesburg,Café flan latte,4.2,19,79.8
+2023-10-04,Brussels,Café soursop latte,6.96,29,201.84
+2023-09-02,Berlin,Cafe con Leche,8.69,49,425.81
+2023-01-01,Colombo,Flat White,1.82,26,47.32
+2023-01-25,Rome,Café pineapple latte,4.06,13,52.78
+2023-08-05,Lima,Café Viennois,4.76,38,180.88
+2023-08-23,Tel Aviv,Latte,6.61,11,72.71
+2023-04-24,Athens,Café Liégeois,7.29,29,211.41
+2023-06-24,Shanghai,Café spiced turmeric latte,6.38,61,389.18
+2023-07-19,Paris,Café dragon fruit latte,6.12,17,104.04
+2023-08-13,Rome,Café spiced turmeric latte,5.84,70,408.8
+2023-03-30,Tel Aviv,Café cardamom latte,6.71,24,161.04
+2023-10-08,Berlin,Café pecan latte,4.66,40,186.4
+2023-04-14,Copenhagen,Macchiato,7.22,22,158.84
+2023-09-01,Kuala Lumpur,Café walnut latte,4.08,13,53.04
+2023-04-04,Singapore,Café pomegranate latte,7.19,26,186.94
+2023-12-03,Kuala Lumpur,Café clove latte,4.48,36,161.28
+2023-07-04,Oslo,Café mango latte,6.37,19,121.03
+2023-04-30,Paris,Café matcha latte,5.9,19,112.1
+2023-11-05,Tel Aviv,Iced Coffee,6.91,36,248.76
+2023-10-26,Prague,Café maple walnut latte,4.6,26,119.6
+2023-09-09,Singapore,Café mangosteen latte,8.0,37,296.0
+2023-09-02,Santiago,Café passion fruit latte,3.69,50,184.5
+2023-09-13,Singapore,Café tiramisu latte,7.33,21,153.93
+2023-02-09,Beijing,Café gingerbread mocha,7.11,12,85.32
+2023-02-05,São Paulo,Café pumpkin spice latte,3.58,27,96.66
+2023-08-02,Toronto,Café dragon fruit latte,6.03,21,126.63
+2023-08-21,Karachi,Café dragon fruit latte,2.3,20,46.0
+2023-10-28,Casablanca,Café quince latte,2.84,21,59.64
+2023-05-02,New York,Café guava latte,8.86,27,239.22
+2023-04-16,Seoul,Café breadfruit latte,4.78,56,267.68
+2023-06-09,Sydney,Café ginger latte,5.57,13,72.41
+2023-09-08,Kuala Lumpur,Café flan latte,4.4,14,61.6
+2023-04-09,Bangalore,Café peppermint latte,2.8,21,58.8
+2023-02-24,Lagos,Ristretto,1.14,16,18.24
+2023-05-24,Bangkok,Café pomegranate latte,3.58,29,103.82
+2023-10-27,London,Café London fog,8.31,9,74.79
+2023-07-23,Bogotá,Café date latte,2.63,24,63.12
+2023-03-03,Johannesburg,Café lavender latte,4.39,25,109.75
+2023-12-02,Auckland,Café caramel mocha,5.83,42,244.86
+2023-09-20,Melbourne,Cafe Zorro,6.72,12,80.64
+2023-03-08,Auckland,Cold Brew,5.79,30,173.7
+2023-09-12,Mumbai,Café cherimoya latte,2.17,12,26.04
+2023-04-10,Singapore,Café lavender latte,5.71,15,85.65
+2023-03-28,Seoul,Café mocha frappé,7.95,13,103.35
+2023-01-18,Cape Town,Café s'mores latte,4.15,23,95.45
+2023-10-08,New York,Café kumquat latte,5.7,28,159.6
+2023-04-28,São Paulo,Café chestnut latte,3.79,16,60.64
+2023-09-16,Stockholm,Café s'mores latte,7.05,17,119.85
+2023-08-01,Athens,Cafe Breve,5.7,19,108.3
+2023-09-12,Riyadh,Café mangosteen latte,5.03,25,125.75
+2023-01-01,Seoul,Café chestnut latte,6.27,40,250.8
+2023-07-19,São Paulo,Café cardamom latte,3.44,28,96.32
+2023-03-05,Surat,Café cinnamon roll latte,1.96,23,45.08
+2023-05-27,Kuala Lumpur,Café pumpkin pie latte,4.4,18,79.2
+2023-12-03,Surat,Cafe Zorro,3.44,37,127.28
+2023-06-03,Tel Aviv,Café spiced mocha,8.2,28,229.6
+2023-01-16,Amsterdam,Café quince latte,6.69,12,80.28
+2023-01-16,Beijing,Café golden latte,4.09,8,32.72
+2023-01-31,Kuala Lumpur,Café hazelnut latte,4.03,8,32.24
+2023-06-24,Vienna,Café butter pecan latte,6.74,43,289.82
+2023-07-15,Beijing,Café rosehip latte,5.28,44,232.32
+2023-02-09,Mexico City,Café con Panna,5.45,11,59.95
+2023-08-23,Warsaw,Iced Coffee,5.3,28,148.4
+2023-10-17,Lisbon,Café quince latte,4.11,18,73.98
+2023-11-27,Colombo,Café soursop latte,2.1,35,73.5
+2023-04-05,Lisbon,Café passion fruit latte,5.53,18,99.54
+2023-09-11,Manila,Black Eye,2.24,29,64.96
+2023-10-23,Amsterdam,Café clove latte,7.35,24,176.4
+2023-06-04,Seoul,Other,8.03,25,200.75
+2023-06-10,Casablanca,Café Miel,5.05,47,237.35
+2023-09-30,Istanbul,Café apple pie latte,4.2,60,252.0
+2023-11-17,Zurich,Bulletproof Coffee,9.28,22,204.16
+2023-03-23,Johannesburg,Café kumquat latte,3.89,9,35.01
+2023-12-02,Brussels,Café mixed berry latte,6.87,42,288.54
+2023-12-24,Lima,Macchiato,3.61,61,220.21
+2023-12-26,Seoul,Café mango latte,4.58,26,119.08
+2023-01-22,Seoul,Café kumquat latte,4.0,21,84.0
+2023-02-13,Tokyo,Café caramel macchiato,7.23,26,187.98
+2023-12-21,Hanoi,Café turmeric latte,2.54,36,91.44
+2023-04-22,Santiago,Café macadamia latte,4.17,31,129.27
+2023-12-06,Shanghai,Café strawberry latte,5.35,36,192.6
+2023-12-11,Amsterdam,Café chestnut latte,5.13,31,159.03
+2023-07-21,Lima,Café cinnamon roll latte,3.43,16,54.88
+2023-08-15,Colombo,Café durian latte,1.7,19,32.3
+2023-12-01,Brussels,Café acai latte,5.96,32,190.72
+2023-04-18,Colombo,Café butter pecan latte,2.22,8,17.76
+2023-12-28,Lisbon,Café hazelnut latte,5.65,36,203.4
+2023-11-04,Buenos Aires,Café pineapple latte,3.1,61,189.1
+2023-09-27,Johannesburg,Café chamomile latte,4.14,13,53.82
+2023-10-14,Rome,Café churro latte,5.06,40,202.4
+2023-05-11,Manila,Café cinnamon roll latte,3.0,10,30.0
+2023-09-11,Amsterdam,Café turmeric ginger latte,6.51,16,104.16
+2023-12-23,Amsterdam,Café cinnamon roll latte,6.62,62,410.44
+2023-06-07,Delhi,Café Touba,3.51,16,56.16
+2023-11-07,Lisbon,Affogato,7.96,29,230.84
+2023-02-04,Mexico City,Café sapodilla latte,4.35,50,217.5
+2023-10-10,Madrid,Cafe au Lait,7.39,18,133.02
+2023-07-04,Cairo,Café dark chocolate mocha,3.99,27,107.73
+2023-07-08,Warsaw,Café London fog,5.8,18,104.4
+2023-08-12,Buenos Aires,Cafe con Leche,4.81,31,149.11
+2023-01-20,Brussels,Café tropical latte,5.88,10,58.8
+2023-08-31,Surat,Café soy latte,1.85,16,29.6
+2023-05-14,Taipei,Café caramel macchiato,5.64,25,141.0
+2023-03-24,Sydney,Café tres leches latte,7.32,24,175.68
+2023-07-11,Stockholm,Cafe con Leche,8.58,17,145.86
+2023-03-06,Oslo,Café spiced mocha,10.67,29,309.43
+2023-02-13,Karachi,Cold Brew,2.75,21,57.75
+2023-05-03,Lima,Café cannoli latte,3.71,16,59.36
+2023-04-21,Zurich,Latte,8.21,16,131.36
+2023-03-14,Kuala Lumpur,Café glacé,4.61,19,87.59
+2023-03-26,Colombo,Café cinnamon roll latte,1.77,47,83.19
+2023-09-29,Karachi,Café lemongrass latte,1.99,19,37.81
+2023-10-13,Kathmandu,Café walnut latte,1.99,26,51.74
+2023-08-27,Zurich,Cafe au Lait,12.25,40,490.0
+2023-11-04,London,Café Touba,10.18,28,285.04
+2023-09-24,Rome,Café spiced mocha,6.3,43,270.9
+2023-12-22,Santiago,Vienna Coffee,6.05,18,108.9
+2023-08-18,Copenhagen,Café cranberry latte,6.85,28,191.8
+2023-06-04,Madrid,Cortado,4.05,32,129.6
+2023-03-02,Lima,Café kumquat latte,2.98,29,86.42
+2023-06-10,Beijing,Café almond latte,5.7,18,102.6
+2023-03-08,Auckland,Café oat latte,5.19,12,62.28
+2023-10-05,Zurich,Café jasmine latte,7.67,14,107.38
+2023-09-21,Auckland,Café Touba,7.75,15,116.25
+2023-12-01,Sydney,Bulletproof Coffee,8.01,14,112.14
+2023-05-11,Lima,Café jackfruit latte,3.49,17,59.33
+2023-01-11,Beijing,Café saffron latte,4.96,28,138.88
+2023-06-25,Riyadh,Café peppermint latte,4.03,18,72.54
+2023-04-07,Cairo,Cafe Zorro,3.55,21,74.55
+2023-01-22,Jakarta,Café frappé,3.41,36,122.76
+2023-01-18,Nairobi,Café rosehip latte,2.39,11,26.29
+2023-04-01,Copenhagen,Iced Coffee,7.99,31,247.69
+2023-09-18,Bangalore,Café caramel macchiato,2.37,23,54.51
+2023-10-08,Dubai,Café dark chocolate mocha,9.27,24,222.48
+2023-09-13,Johannesburg,Black Eye,2.45,25,61.25
+2023-07-07,Paris,Bulletproof Coffee,8.25,13,107.25
+2023-10-24,New York,Cortado,8.78,28,245.84
+2023-06-17,Cairo,Café London fog,3.62,41,148.42
+2023-04-05,Cape Town,Iced Coffee,4.39,16,70.24
+2023-01-13,Santiago,Turkish Coffee,4.97,9,44.73
+2023-03-15,Seoul,Café spiced turmeric latte,6.18,32,197.76
+2023-10-22,Kuala Lumpur,Café pineapple latte,4.54,44,199.76
+2023-04-09,Taipei,Café Marocchino,7.86,38,298.68
+2023-04-03,Oslo,Café strawberry latte,7.72,18,138.96
+2023-03-17,Bogotá,Café lemongrass latte,2.68,24,64.32
+2023-07-24,Paris,Café clove latte,5.67,15,85.05
+2023-04-05,Tel Aviv,Cafe Breve,8.13,11,89.43
+2023-01-16,Oslo,Café saffron latte,6.89,13,89.57
+2023-10-26,Budapest,Café spiced mocha,5.56,8,44.48
+2023-04-28,Paris,Café cranberry latte,5.56,14,77.84
+2023-05-02,Delhi,Café Marocchino,4.2,13,54.6
+2023-10-03,Casablanca,Café jackfruit latte,3.81,22,83.82
+2023-09-20,Warsaw,Café coconut cream latte,4.5,24,108.0
+2023-08-07,Istanbul,Café turmeric ginger latte,5.11,33,168.63
+2023-01-23,Surat,Café jasmine latte,2.05,9,18.45
+2023-12-13,Kuala Lumpur,Café lavender latte,3.94,37,145.78
+2023-12-19,Auckland,Frappuccino,5.97,20,119.4
+2023-06-29,Auckland,Café chai latte,4.23,26,109.98
+2023-03-12,Amsterdam,Café chai latte,6.5,47,305.5
+2023-01-30,Taipei,Café guava latte,3.73,10,37.3
+2023-04-02,Berlin,Cafe au Lait,8.85,35,309.75
+2023-01-24,Santiago,Café frappé,4.72,19,89.68
+2023-12-31,Kuala Lumpur,Café dark chocolate mocha,4.42,57,251.94
+2023-01-29,Budapest,Café ginger latte,3.84,30,115.2
+2023-11-10,Bogotá,Café Viennois,3.64,33,120.12
+2023-12-14,Kuala Lumpur,Café pineapple latte,4.38,33,144.54
+2023-03-25,Shanghai,Café lavender latte,5.39,27,145.53
+2023-07-02,Singapore,Flat White,5.59,20,111.8
+2023-01-03,Beijing,Café strawberry latte,4.85,8,38.8
+2023-09-22,Istanbul,Café strawberry latte,4.79,22,105.38
+2023-07-20,Melbourne,Café cinnamon roll latte,4.14,22,91.08
+2023-04-01,Buenos Aires,Café hazelnut mocha,4.34,30,130.2
+2023-11-27,Singapore,Café peppermint latte,6.66,35,233.1
+2023-11-02,Budapest,Café golden latte,2.85,32,91.2
+2023-01-27,Casablanca,Cafe au Lait,4.5,27,121.5
+2023-08-21,Lisbon,Café fig latte,4.12,20,82.4
+2023-05-18,Tokyo,Café pumpkin pie latte,6.61,16,105.76
+2023-11-10,Buenos Aires,Café pumpkin spice latte,3.04,19,57.76
+2023-04-05,Vienna,Café chamomile latte,6.96,12,83.52
+2023-04-15,Rome,Red Eye,2.59,19,49.21
+2023-11-08,Karachi,Frappuccino,2.41,23,55.43
+2023-06-01,Dubai,Ristretto,4.63,25,115.75
+2023-07-07,Lisbon,Café Marocchino,6.01,16,96.16
+2023-06-29,Sydney,Café cranberry latte,7.35,21,154.35
+2023-12-01,Prague,Irish Coffee,5.3,32,169.6
+2023-07-03,Nairobi,Café pineapple latte,2.22,21,46.62
+2023-03-20,Kathmandu,Café ginger latte,2.56,27,69.12
+2023-03-07,Berlin,Café lemongrass latte,4.52,11,49.72
+2023-07-02,Toronto,Café pumpkin spice latte,5.84,32,186.88
+2023-12-29,Dhaka,Café London fog,2.42,11,26.62
+2023-05-09,Brussels,Café mixed berry latte,5.55,12,66.6
+2023-01-22,Casablanca,Café con Panna,4.69,40,187.6
+2023-10-20,Surat,Café dirty chai,3.09,14,43.26
+2023-05-25,Brussels,Café pineapple latte,5.25,12,63.0
+2023-08-25,Singapore,Bulletproof Coffee,10.88,17,184.96
+2023-11-13,Berlin,Café dulce de leche latte,4.51,19,85.69
+2023-06-06,Istanbul,Cortado,6.42,32,205.44
+2023-07-18,Brussels,Café tres leches latte,6.25,24,150.0
+2023-08-02,Casablanca,Café gingerbread mocha,4.67,24,112.08
+2023-04-14,Berlin,Café tiramisu latte,6.3,20,126.0
+2023-08-01,Mexico City,Cafe con Leche,4.66,27,125.82
+2023-12-14,Rome,Café Viennois,8.53,26,221.78
+2023-02-20,Kuala Lumpur,Café cherimoya latte,4.44,9,39.96
+2023-03-12,Vienna,Café glacé,7.67,31,237.77
+2023-01-09,Rome,Latte,4.74,9,42.66
+2023-09-07,Surat,Café passion fruit latte,2.55,24,61.2
+2023-11-27,Stockholm,Café pistachio latte,7.68,24,184.32
+2023-12-14,Bangkok,Café dulce de leche latte,3.59,11,39.49
+2023-06-24,Copenhagen,Café persimmon latte,6.39,16,102.24
+2023-06-02,Singapore,Mocha,9.56,26,248.56
+2023-09-28,Delhi,Café jackfruit latte,2.56,12,30.72
+2023-02-08,Kathmandu,Café mangosteen latte,1.84,21,38.64
+2023-04-14,Budapest,Iced Coffee,5.39,16,86.24
+2023-01-01,Cairo,Cafe Cubano,3.98,22,87.56
+2023-11-13,Cape Town,Café hibiscus latte,2.84,11,31.24
+2023-08-25,Lisbon,Café London fog,7.99,10,79.9
+2023-07-03,Stockholm,Café passion fruit latte,7.89,27,213.03
+2023-03-29,Tel Aviv,Café jasmine latte,5.0,26,130.0
+2023-02-17,Karachi,Café dark chocolate mocha,2.3,18,41.4
+2023-11-18,Zurich,Café lychee latte,9.04,50,452.0
+2023-07-24,Athens,Café mango latte,3.7,28,103.6
+2023-08-27,Copenhagen,Ristretto,4.32,18,77.76
+2023-08-09,Toronto,Nitro Coffee,7.76,26,201.76
+2023-03-11,Colombo,Café dulce de leche latte,1.65,22,36.3
+2023-01-23,Jakarta,Café lychee latte,3.17,28,88.76
+2023-06-15,Seoul,Café Bombón,8.05,9,72.45
+2023-01-01,Stockholm,Flat White,6.82,38,259.16
+2023-03-24,London,Café breadfruit latte,8.25,9,74.25
+2023-06-05,Athens,Café matcha latte,5.67,8,45.36
+2023-11-11,Budapest,Café pumpkin spice latte,4.39,49,215.11
+2023-11-06,Toronto,Café nutmeg latte,6.94,15,104.1
+2023-01-29,Lisbon,Café persimmon latte,4.53,47,212.91
+2023-03-30,Karachi,Café latte macchiato,2.36,20,47.2
+2023-07-31,Paris,Café butter pecan latte,5.25,26,136.5
+2023-07-07,Nairobi,Cortado,2.85,12,34.2
+2023-02-12,Mumbai,Café cherimoya latte,2.76,38,104.88
+2023-06-29,Karachi,Café Touba,2.67,11,29.37
+2023-01-05,Riyadh,Café ginger latte,5.23,25,130.75
+2023-01-24,Singapore,Café rose latte,7.79,19,148.01
+2023-06-03,Casablanca,Café Viennois,5.14,29,149.06
+2023-06-04,Madrid,Café apple pie latte,5.51,30,165.3
+2023-02-07,Budapest,Café dulce de leche latte,2.97,9,26.73
+2023-02-27,Dhaka,Café tres leches latte,2.27,10,22.7
+2023-08-20,Budapest,Café soursop latte,4.25,41,174.25
+2023-01-24,Amsterdam,Café saffron latte,6.18,26,160.68
+2023-05-23,New York,Frappuccino,9.41,34,319.94
+2023-06-16,Colombo,Café chestnut latte,1.73,8,13.84
+2023-05-27,Singapore,Café durian latte,6.54,22,143.88
+2023-02-03,Lagos,Nitro Coffee,2.28,14,31.92
+2023-02-22,Singapore,Café raspberry latte,5.69,26,147.94
+2023-04-22,Johannesburg,Café Touba,4.36,26,113.36
+2023-11-21,Singapore,Café lavender latte,5.37,37,198.69
+2023-01-27,Bangkok,Cafe con Leche,4.01,11,44.11
+2023-05-09,Seoul,Café banana latte,5.42,14,75.88
+2023-05-25,Lagos,Mocha,2.37,12,28.44
+2023-10-11,Manila,Vienna Coffee,3.06,12,36.72
+2023-07-15,Amsterdam,Café sapodilla latte,5.31,22,116.82
+2023-11-10,Berlin,Café glacé,8.89,18,160.02
+2023-04-03,Bangalore,Café latte macchiato,2.9,7,20.3
+2023-08-07,Lisbon,Café royale,6.64,19,126.16
+2023-03-16,Santiago,Café royale,5.36,27,144.72
+2023-07-21,Brussels,Café clove latte,4.78,11,52.58
+2023-03-04,Singapore,Café cannoli latte,6.06,47,284.82
+2023-09-10,São Paulo,Café spiced mocha,5.36,49,262.64
+2023-03-08,Surat,Café frappé,3.19,6,19.14
+2023-02-25,Zurich,Café soursop latte,8.88,32,284.16
+2023-08-20,Warsaw,Café chestnut latte,3.32,32,106.24
+2023-11-04,Kathmandu,Café longan latte,1.74,62,107.88
+2023-05-05,Tokyo,Café spiced turmeric latte,7.9,34,268.6
+2023-08-18,Tokyo,Café Miel,11.15,25,278.75
+2023-07-29,Berlin,Cafe Cubano,7.94,27,214.38
+2023-04-13,Istanbul,Café soy latte,6.31,33,208.23
+2023-10-31,Riyadh,Café Marocchino,6.56,28,183.68
+2023-02-20,New York,Café mocha frappé,9.46,9,85.14
+2023-03-12,Delhi,Café dark chocolate mocha,3.15,32,100.8
+2023-05-24,Berlin,Café blackberry latte,6.93,29,200.97
+2023-02-16,Delhi,Café blackberry latte,2.15,21,45.15
+2023-02-23,Lima,Cafe Zorro,4.09,15,61.35
+2023-07-18,Bangalore,Café churro latte,2.81,7,19.67
+2023-03-08,Auckland,Café salak latte,6.48,25,162.0
+2023-05-23,Manila,Café cinnamon mocha,2.87,20,57.4
+2023-05-18,Singapore,Café earl grey latte,7.99,12,95.88
+2023-03-15,Cape Town,Café almond latte,2.82,28,78.96
+2023-04-28,Berlin,Café longan latte,5.24,16,83.84
+2023-12-09,Hanoi,Café baklava latte,2.86,32,91.52
+2023-08-06,Lima,Café white chocolate mocha,4.52,46,207.92
+2023-12-07,Hanoi,Café turmeric latte,3.14,39,122.46
+2023-04-04,Beijing,Bulletproof Coffee,6.66,11,73.26
+2023-08-12,Cape Town,Cortado,4.18,49,204.82
+2023-05-11,Surat,Café Viennois,3.29,8,26.32
+2023-10-04,Cairo,Café strawberry latte,2.9,9,26.1
+2023-01-18,Seoul,Frappuccino,6.92,9,62.28
+2023-12-11,Paris,Cafe con Leche,9.32,20,186.4
+2023-05-20,Auckland,Café pumpkin pie latte,4.28,39,166.92
+2023-07-03,Madrid,Café chai latte,5.97,13,77.61
+2023-05-26,Singapore,Black Eye,3.28,14,45.92
+2023-06-21,Seoul,Doppio,3.65,27,98.55
+2023-01-22,Beijing,Café quince latte,6.23,44,274.12
+2023-12-22,Buenos Aires,Café soursop latte,2.46,33,81.18
+2023-10-22,Mexico City,Nitro Coffee,4.55,22,100.1
+2023-06-09,Colombo,Café frappé,3.18,30,95.4
+2023-07-19,Kuala Lumpur,Red Eye,2.64,24,63.36
+2023-04-11,Santiago,Café dark chocolate mocha,5.38,17,91.46
+2023-09-03,New York,Café cherimoya latte,5.96,60,357.6
+2023-06-17,Cairo,Mocha,2.93,32,93.76
+2023-03-02,Istanbul,Café chai latte,5.75,32,184.0
+2023-04-25,Prague,Black Eye,3.54,8,28.32
+2023-04-17,Seoul,Cortado,4.64,27,125.28
+2023-06-02,Kuala Lumpur,Café macadamia latte,3.88,16,62.08
+2023-05-07,Manila,Café pumpkin pie latte,2.28,21,47.88
+2023-04-19,Melbourne,Café oat latte,4.47,13,58.11
+2023-06-22,Jakarta,Café toffee nut latte,2.37,24,56.88
+2023-05-08,São Paulo,Café raspberry latte,3.22,22,70.84
+2023-01-09,Bangalore,Café tiramisu latte,2.26,16,36.16
+2023-01-14,Singapore,Café longan latte,7.2,49,352.8
+2023-09-20,Bogotá,Café frappé,4.14,18,74.52
+2023-06-24,Mumbai,Café cinnamon mocha,3.28,30,98.4
+2023-08-29,Lima,Café nutmeg latte,3.82,23,87.86
+2023-04-20,New York,Café pistachio latte,8.85,32,283.2
+2023-02-19,Lagos,Bulletproof Coffee,2.75,40,110.0
+2023-12-14,Zurich,Café chestnut latte,5.88,37,217.56
+2023-08-11,Manila,Café toffee nut latte,2.66,21,55.86
+2023-05-12,Bangkok,Café con Hielo,4.93,27,133.11
+2023-06-13,Tel Aviv,Café hazelnut latte,6.97,30,209.1
+2023-11-21,Bangalore,Café almond latte,2.07,20,41.4
+2023-04-13,Prague,Cafe Zorro,4.98,22,109.56
+2023-10-15,Hong Kong,Café spiced mocha,11.07,43,476.01
+2023-09-23,Auckland,Café sapodilla latte,4.49,50,224.5
+2023-04-01,Hanoi,Café turmeric ginger latte,2.56,20,51.2
+2023-10-21,Dhaka,Other,2.69,19,51.11
+2023-09-17,London,Cold Brew,10.01,22,220.22
+2023-06-01,Bangalore,Café hibiscus latte,2.23,20,44.6
+2023-05-19,Tel Aviv,Café tiramisu latte,5.83,22,128.26
+2023-09-10,Seoul,Mocha,7.09,40,283.6
+2023-12-05,Bangalore,Café mixed berry latte,2.95,13,38.35
+2023-08-29,Tel Aviv,Café rosehip latte,5.52,21,115.92
+2023-05-27,Dubai,Café caramel macchiato,6.15,28,172.2
+2023-05-06,Nairobi,Café sapodilla latte,2.66,47,125.02
+2023-09-19,Stockholm,Espresso,5.11,20,102.2
+2023-12-21,Dubai,Café mangosteen latte,5.5,11,60.5
+2023-04-24,Casablanca,Café jasmine latte,2.65,29,76.85
+2023-09-02,Rome,Café chamomile latte,4.6,42,193.2
+2023-01-23,Johannesburg,Café apple pie latte,4.17,28,116.76
+2023-11-18,Istanbul,Café guava latte,4.98,49,244.02
+2023-01-19,Budapest,Cafe Zorro,5.03,8,40.24
+2023-03-26,Beijing,Turkish Coffee,7.04,25,176.0
+2023-01-16,Prague,Café chai latte,4.1,14,57.4
+2023-01-04,Bangkok,Turkish Coffee,4.98,18,89.64
+2023-04-28,Kuala Lumpur,Café cinnamon mocha,5.24,23,120.52
+2023-01-10,Bogotá,Café jasmine latte,3.73,21,78.33
+2023-02-19,Prague,Café jasmine latte,4.41,24,105.84
+2023-07-14,São Paulo,Café macadamia latte,3.59,25,89.75
+2023-01-02,Oslo,Cafe Cubano,8.55,29,247.95
+2023-05-19,Bangalore,Café chai latte,2.11,9,18.99
+2023-10-29,Santiago,Cafe con Leche,6.18,31,191.58
+2023-03-19,Istanbul,Café hazelnut latte,5.14,18,92.52
+2023-02-22,Amsterdam,Café toffee nut latte,5.25,15,78.75
+2023-11-11,Oslo,Café persimmon latte,5.92,23,136.16
+2023-05-13,Bangkok,Café sapodilla latte,3.31,47,155.57
+2023-10-13,Casablanca,Café earl grey latte,3.85,27,103.95
+2023-10-06,Cairo,Café cannoli latte,2.59,29,75.11
+2023-02-28,Copenhagen,Cafe Zorro,11.53,25,288.25
+2023-05-04,Mexico City,Café quince latte,3.0,28,84.0
+2023-03-31,Tokyo,Café peppermint mocha,7.35,27,198.45
+2023-12-01,Lima,Café ginger latte,3.56,18,64.08
+2023-05-17,Santiago,Café coconut latte,3.71,13,48.23
+2023-04-27,Vienna,Café golden latte,5.56,17,94.52
+2023-12-26,São Paulo,Café starfruit latte,4.18,39,163.02
+2023-09-13,Brussels,Café golden latte,4.48,23,103.04
+2023-07-07,Sydney,Iced Coffee,8.84,42,371.28
+2023-06-24,Tokyo,Cafe Breve,11.04,44,485.76
+2023-11-23,Dhaka,Cortado,1.77,18,31.86
+2023-08-25,Dubai,Café mango latte,8.14,16,130.24
+2023-01-23,Nairobi,Café Viennois,4.24,9,38.16
+2023-01-19,Shanghai,Cappuccino,4.19,8,33.52
+2023-09-01,Karachi,Café fig latte,2.5,11,27.5
+2023-12-11,Lagos,Café matcha latte,2.23,23,51.29
+2023-11-07,Cape Town,Red Eye,2.58,24,61.92
+2023-08-10,Manila,Café chestnut latte,2.94,9,26.46
+2023-12-01,Vienna,Café sapodilla latte,4.7,18,84.6
+2023-07-28,Mumbai,Café golden latte,2.04,8,16.32
+2023-09-06,Cairo,Café butter pecan latte,2.7,15,40.5
+2023-01-17,Riyadh,Café lemongrass latte,4.42,27,119.34
+2023-04-25,Dubai,Café turmeric latte,7.54,29,218.66
+2023-01-29,São Paulo,Café guava latte,3.5,32,112.0
+2023-06-09,Kathmandu,Turkish Coffee,3.5,19,66.5
+2023-03-09,Karachi,Frappuccino,2.48,7,17.36
+2023-05-06,Brussels,Café quince latte,4.47,32,143.04
+2023-08-30,Shanghai,Café persimmon latte,5.69,17,96.73
+2023-12-12,Tokyo,Café passion fruit latte,5.38,19,102.22
+2023-02-15,Singapore,Café blackberry latte,7.36,12,88.32
+2023-05-23,Dhaka,Café hazelnut mocha,2.86,23,65.78
+2023-09-23,Lima,Café Viennois,5.0,26,130.0
+2023-11-18,Shanghai,Café flan latte,4.92,27,132.84
+2023-02-06,Cairo,Café cardamom latte,3.07,12,36.84
+2023-06-13,Casablanca,Café allspice latte,3.6,20,72.0
+2023-03-22,Lagos,Flat White,1.65,9,14.85
+2023-11-07,Lisbon,Café royale,6.95,33,229.35
+2023-08-09,Lima,Affogato,4.66,30,139.8
+2023-03-14,Mexico City,Café Liégeois,4.62,13,60.06
+2023-05-07,Singapore,Café persimmon latte,7.73,16,123.68
+2023-06-16,Warsaw,Café soursop latte,3.08,16,49.28
+2023-10-23,Bangalore,Café blueberry latte,3.1,10,31.0
+2023-11-10,Bangalore,Café pumpkin pie latte,2.99,14,41.86
+2023-08-31,Brussels,Flat White,6.25,22,137.5
+2023-07-07,Oslo,Cafe Zorro,8.84,30,265.2
+2023-11-22,Vienna,Café durian latte,6.68,29,193.72
+2023-01-29,Cairo,Café durian latte,2.68,45,120.6
+2023-08-04,Sydney,Café white chocolate mocha,10.06,20,201.2
+2023-11-25,Vienna,Café royale,7.67,44,337.48
+2023-10-16,London,Café glacé,11.85,36,426.6
+2023-04-03,Mexico City,Café rambutan latte,3.71,15,55.65
+2023-04-27,Kathmandu,Café salak latte,2.29,14,32.06
+2023-10-22,Toronto,Cafe au Lait,7.22,50,361.0
+2023-02-11,Johannesburg,Cafe au Lait,6.22,24,149.28
+2023-10-24,Riyadh,Other,7.23,26,187.98
+2023-04-08,Copenhagen,Café con Hielo,8.36,15,125.4
+2023-09-08,Dubai,Café quince latte,5.74,19,109.06
+2023-12-18,Lima,Café raspberry latte,2.86,39,111.54
+2023-06-18,Oslo,Café London fog,8.48,23,195.04
+2023-04-14,Jakarta,Doppio,1.54,26,40.04
+2023-08-14,Toronto,Café churro latte,6.31,27,170.37
+2023-08-19,Cape Town,Cafe Zorro,5.88,17,99.96
+2023-03-01,Vienna,Café maple walnut latte,5.78,17,98.26
+2023-08-24,Oslo,Black Eye,5.08,28,142.24
+2023-11-03,Vienna,Café pomegranate latte,5.73,20,114.6
+2023-02-15,Tokyo,Café London fog,8.67,26,225.42
+2023-05-18,London,Café gingerbread mocha,9.41,19,178.79
+2023-08-16,Copenhagen,Café quince latte,7.46,18,134.28
+2023-01-01,Amsterdam,Café Miel,9.53,18,171.54
+2023-12-22,Berlin,Café saffron latte,5.81,23,133.63
+2023-10-27,Zurich,Café chamomile latte,6.66,11,73.26
+2023-02-28,Mexico City,Flat White,3.74,20,74.8
+2023-05-11,Lisbon,Café cinnamon mocha,5.75,18,103.5
+2023-11-16,Oslo,Café lychee latte,7.04,10,70.4
+2023-03-27,Tokyo,Café pumpkin spice latte,8.31,10,83.1
+2023-08-10,Zurich,Café caramel macchiato,8.88,14,124.32
+2023-05-30,Delhi,Café pistachio latte,3.13,20,62.6
+2023-03-06,Lagos,Café persimmon latte,2.29,9,20.61
+2023-06-22,Singapore,Café pumpkin pie latte,6.37,12,76.44
+2023-03-31,Buenos Aires,Café apple pie latte,2.68,8,21.44
+2023-04-10,Tokyo,Café royale,9.09,9,81.81
+2023-10-14,Oslo,Café s'mores latte,6.27,41,257.07
+2023-04-24,Manila,Café clove latte,2.06,9,18.54
+2023-01-14,Bogotá,Café chamomile latte,2.42,25,60.5
+2023-08-13,Buenos Aires,Café dulce de leche latte,3.27,23,75.21
+2023-01-02,Kuala Lumpur,Café dirty chai,5.0,30,150.0
+2023-07-27,London,Café glacé,9.76,32,312.32
+2023-11-24,Beijing,Café tropical latte,4.85,20,97.0
+2023-01-30,Shanghai,Café starfruit latte,5.95,29,172.55
+2023-04-10,Lagos,Café vanilla latte,2.23,24,53.52
+2023-04-12,Amsterdam,Café coconut latte,4.97,29,144.13
+2023-12-12,Johannesburg,Café turmeric latte,3.68,13,47.84
+2023-11-06,Beijing,Cafe Breve,7.22,11,79.42
+2023-11-13,Brussels,Café starfruit latte,4.69,11,51.59
+2023-02-18,Singapore,Café tropical latte,6.31,35,220.85
+2023-05-26,Warsaw,Café maple walnut latte,3.78,20,75.6
+2023-03-14,Johannesburg,Café turmeric ginger latte,3.73,12,44.76
+2023-01-13,Lisbon,Café walnut latte,3.68,22,80.96
+2023-05-03,Melbourne,Café tropical latte,5.58,18,100.44
+2023-07-11,Colombo,Café rosehip latte,1.7,14,23.8
+2023-09-22,Dhaka,Café latte macchiato,1.62,8,12.96
+2023-12-02,Mumbai,Café hibiscus latte,2.12,27,57.24
+2023-07-31,Karachi,Café date latte,1.66,6,9.96
+2023-06-25,Mexico City,Café saffron latte,3.52,15,52.8
+2023-09-14,Zurich,Café honey almond latte,6.51,13,84.63
+2023-11-16,Singapore,Café frappé,8.83,22,194.26
+2023-10-29,Bogotá,Café Bombón,3.98,38,151.24
+2023-12-24,Bangalore,Cafe au Lait,3.7,20,74.0
+2023-06-23,Brussels,Café s'mores latte,4.46,27,120.42
+2023-07-30,Kuala Lumpur,Café mixed berry latte,3.45,47,162.15
+2023-01-28,Stockholm,Affogato,9.64,21,202.44
+2023-05-12,Hong Kong,Café pumpkin pie latte,7.96,29,230.84
+2023-12-15,Prague,Café fig latte,3.58,20,71.6
+2023-11-25,Prague,Café pomegranate latte,4.33,23,99.59
+2023-07-08,Auckland,Café hazelnut mocha,5.53,30,165.9
+2023-10-20,Surat,Café blackberry latte,1.76,17,29.92
+2023-03-05,Warsaw,Café rambutan latte,4.07,47,191.29
+2023-07-16,Copenhagen,Café lavender latte,5.83,26,151.58
+2023-09-07,Tel Aviv,Café toffee nut latte,7.13,21,149.73
+2023-04-28,Sydney,Café kumquat latte,6.35,8,50.8
+2023-10-28,Tokyo,Café mango latte,7.34,48,352.32
+2023-07-09,Surat,Café pumpkin pie latte,1.82,15,27.3
+2023-05-16,Casablanca,Café dulce de leche latte,2.86,14,40.04
+2023-11-09,Auckland,Red Eye,3.72,24,89.28
+2023-12-08,Melbourne,Café fig latte,4.49,36,161.64
+2023-04-25,Bangkok,Café matcha latte,3.63,17,61.71
+2023-03-17,London,Café starfruit latte,7.99,15,119.85
+2023-01-15,Johannesburg,Café nutmeg latte,4.47,23,102.81
+2023-09-21,Beijing,Americano,3.14,12,37.68
+2023-03-13,Lima,Café cinnamon roll latte,3.73,8,29.84
+2023-03-13,Sydney,Doppio,5.84,23,134.32
+2023-10-10,Manila,Café caramel macchiato,2.03,22,44.66
+2023-01-26,Manila,Café cranberry latte,3.22,30,96.6
+2023-02-09,Brussels,Café glacé,7.5,9,67.5
+2023-08-08,Tel Aviv,Café butter pecan latte,5.55,27,149.85
+2023-02-12,Melbourne,Café pistachio latte,6.41,22,141.02
+2023-03-03,Cairo,Café guava latte,3.06,13,39.78
+2023-11-08,Manila,Café pineapple latte,2.23,23,51.29
+2023-02-10,Budapest,Café date latte,3.47,13,45.11
+2023-01-21,Beijing,Café mango latte,4.73,37,175.01
+2023-12-28,Casablanca,Ristretto,2.48,14,34.72
+2023-06-05,New York,Café tropical latte,7.23,18,130.14
+2023-06-10,Vienna,Café durian latte,6.2,23,142.6
+2023-02-21,Singapore,Café jasmine latte,6.95,12,83.4
+2023-10-19,Mumbai,Café longan latte,3.01,18,54.18
+2023-12-14,Amsterdam,Café pumpkin pie latte,6.57,26,170.82
+2023-04-07,Prague,Café pumpkin pie latte,4.9,19,93.1
+2023-11-25,Melbourne,Cortado,4.98,44,219.12
+2023-10-07,Hanoi,Macchiato,3.24,19,61.56
+2023-01-03,Hanoi,Café frappé,3.11,23,71.53
+2023-07-09,Tokyo,Café soy latte,6.19,51,315.69
+2023-02-14,Colombo,Café raspberry latte,2.19,12,26.28
+2023-05-23,Melbourne,Café salak latte,5.56,20,111.2
+2023-12-18,Istanbul,Café baklava latte,5.17,18,93.06
+2023-10-26,Manila,Café vanilla latte,2.86,10,28.6
+2023-11-24,Delhi,Red Eye,1.45,14,20.3
+2023-02-08,Brussels,Affogato,9.59,28,268.52
+2023-03-20,Lisbon,Café turmeric ginger latte,5.04,14,70.56
+2023-08-07,Melbourne,Café cinnamon roll latte,4.45,28,124.6
+2023-02-25,Bangkok,Café caramel macchiato,2.76,48,132.48
+2023-05-19,Manila,Café tiramisu latte,3.13,18,56.34
+2023-03-19,Madrid,Café mocha frappé,7.97,32,255.04
+2023-10-27,Manila,Café kumquat latte,2.21,10,22.1
+2023-10-27,Tel Aviv,Black Eye,3.9,10,39.0
+2023-07-20,Karachi,Café cardamom latte,2.26,14,31.64
+2023-10-21,Johannesburg,Café coconut cream latte,3.16,40,126.4
+2023-05-28,Delhi,Latte,2.28,24,54.72
+2023-02-04,Lagos,Café chamomile latte,2.34,18,42.12
+2023-03-08,Surat,Café tres leches latte,2.26,13,29.38
+2023-08-27,Dhaka,Café con Hielo,2.44,34,82.96
+2023-05-12,Manila,Café tres leches latte,2.66,28,74.48
+2023-04-02,New York,Café lavender latte,6.66,36,239.76
+2023-09-23,Auckland,Café turmeric ginger latte,5.65,39,220.35
+2023-08-14,Casablanca,Café persimmon latte,2.9,20,58.0
+2023-02-21,Bogotá,Café rosehip latte,3.31,14,46.34
+2023-11-27,Manila,Irish Coffee,3.29,27,88.83
+2023-07-03,Beijing,Café tres leches latte,5.82,19,110.58
+2023-04-22,New York,Café pomegranate latte,8.06,31,249.86
+2023-02-06,Auckland,Café Viennois,6.92,17,117.64
+2023-12-13,Nairobi,Café hazelnut mocha,3.26,10,32.6
+2023-09-15,Oslo,Café banana latte,7.47,10,74.7
+2023-05-14,Lagos,Café dirty chai,2.85,42,119.7
+2023-12-26,São Paulo,Bulletproof Coffee,5.64,27,152.28
+2023-05-20,Bangalore,Ristretto,2.05,18,36.9
+2023-05-15,Cape Town,Café frappé,5.54,25,138.5
+2023-03-13,Melbourne,Café honey almond latte,4.87,22,107.14
+2023-12-15,Beijing,Macchiato,6.47,20,129.4
+2023-10-09,Singapore,Café s'mores latte,7.29,21,153.09
+2023-12-31,Beijing,Café saffron latte,5.83,46,268.18
+2023-07-07,Lima,Affogato,3.95,13,51.35
+2023-02-06,Kathmandu,Café clove latte,2.47,30,74.1
+2023-02-10,Shanghai,Café raspberry latte,4.89,21,102.69
+2023-05-17,Dubai,Café pomegranate latte,7.81,15,117.15
+2023-06-08,Cairo,Café Bombón,3.99,22,87.78
+2023-01-28,Shanghai,Café hibiscus latte,5.11,34,173.74
+2023-11-16,Dhaka,Café guava latte,2.23,27,60.21
+2023-04-03,Brussels,Café allspice latte,6.67,25,166.75
+2023-12-09,Vienna,Café turmeric ginger latte,4.58,55,251.9
+2023-02-07,Beijing,Café salak latte,5.36,22,117.92
+2023-10-11,Athens,Café earl grey latte,5.39,25,134.75
+2023-12-31,Brussels,Café pecan latte,5.07,36,182.52
+2023-01-07,Melbourne,Bulletproof Coffee,7.95,43,341.85
+2023-12-21,Karachi,Café spiced mocha,2.3,29,66.7
+2023-06-09,Prague,Café matcha latte,4.04,28,113.12
+2023-12-17,Bangkok,Espresso,2.26,46,103.96
+2023-07-04,Karachi,Ristretto,1.22,9,10.98
+2023-05-03,Dubai,Café caramel macchiato,6.97,26,181.22
+2023-01-16,Auckland,Café honey almond latte,6.42,19,121.98
+2023-01-22,Lisbon,Café Miel,7.12,28,199.36
+2023-10-14,Singapore,Café date latte,6.06,30,181.8
+2023-11-25,Lagos,Cold Brew,2.64,28,73.92
+2023-09-17,Lagos,Café cranberry latte,2.2,23,50.6
+2023-12-27,Sydney,Iced Coffee,8.25,15,123.75
+2023-09-29,Seoul,Cold Brew,7.68,26,199.68
+2023-07-15,Copenhagen,Café coconut cream latte,8.34,26,216.84
+2023-05-20,Vienna,Café cinnamon mocha,6.42,49,314.58
+2023-05-19,Zurich,Café cherimoya latte,6.28,29,182.12
+2023-12-06,Hanoi,Café breadfruit latte,2.22,35,77.7
+2023-10-01,Taipei,Café mocha frappé,5.65,46,259.9
+2023-03-01,London,Cafe Breve,8.2,18,147.6
+2023-01-10,São Paulo,Café dark chocolate mocha,4.53,14,63.42
+2023-09-22,Singapore,Café breadfruit latte,5.31,17,90.27
+2023-07-18,Singapore,Café lychee latte,6.55,15,98.25
+2023-10-02,Sydney,Café saffron latte,8.32,25,208.0
+2023-08-24,Riyadh,Café cinnamon roll latte,6.06,14,84.84
+2023-04-25,Tokyo,Café coconut latte,7.27,30,218.1
+2023-03-03,Bangkok,Café pecan latte,2.91,17,49.47
+2023-05-11,Lagos,Café Viennois,2.47,10,24.7
+2023-11-13,Amsterdam,Café toffee nut latte,6.32,35,221.2
+2023-01-29,Tel Aviv,Café maple walnut latte,6.05,41,248.05
+2023-06-04,Seoul,Café clove latte,5.0,57,285.0
+2023-10-27,Melbourne,Café rose latte,4.21,10,42.1
+2023-09-28,New York,Café oat latte,8.5,34,289.0
+2023-11-13,Oslo,Café Marocchino,10.22,39,398.58
+2023-08-16,Cairo,Café cinnamon mocha,3.38,18,60.84
+2023-05-25,Hong Kong,Café coconut cream latte,7.03,24,168.72
+2023-07-26,Melbourne,Café oat latte,4.67,16,74.72
+2023-08-05,Nairobi,Flat White,2.5,46,115.0
+2023-03-22,Copenhagen,Café chamomile latte,5.3,30,159.0
+2023-08-07,Lima,Mocha,3.88,30,116.4
+2023-08-08,Singapore,Café matcha latte,6.47,23,148.81
+2023-01-15,Riyadh,Café Liégeois,8.85,22,194.7
+2023-01-19,Dhaka,Café hazelnut latte,1.88,23,43.24
+2023-01-06,Madrid,Espresso,3.28,16,52.48
+2023-10-07,Nairobi,Café starfruit latte,2.65,33,87.45
+2023-10-06,Casablanca,Café jackfruit latte,2.76,8,22.08
+2023-06-20,Dubai,Café s'mores latte,5.77,13,75.01
+2023-06-25,Singapore,Café allspice latte,6.36,48,305.28
+2023-02-14,Budapest,Other,5.15,17,87.55
+2023-08-18,Melbourne,Cafe au Lait,7.25,23,166.75
+2023-03-09,Nairobi,Café walnut latte,2.02,8,16.16
+2023-12-12,Warsaw,Café Touba,4.52,28,126.56
+2023-06-20,Auckland,Café ginger latte,5.31,26,138.06
+2023-01-15,Kuala Lumpur,Café sapodilla latte,3.69,26,95.94
+2023-12-17,Karachi,Cappuccino,2.33,37,86.21
+2023-01-06,Budapest,Cafe Cubano,4.93,28,138.04
+2023-06-27,Kuala Lumpur,Café rambutan latte,4.27,23,98.21
+2023-05-29,Riyadh,Café fig latte,5.26,13,68.38
+2023-03-07,Lisbon,Café vanilla latte,5.54,24,132.96
+2023-02-21,London,Café dirty chai,10.34,22,227.48
+2023-01-01,Vienna,Café caramel mocha,7.77,27,209.79
+2023-10-06,Beijing,Café nutmeg latte,5.28,28,147.84
+2023-10-27,Warsaw,Café cranberry latte,3.89,27,105.03
+2023-07-22,Karachi,Café mango latte,2.0,31,62.0
+2023-07-31,Kathmandu,Café tropical latte,2.11,13,27.43
+2023-07-19,Taipei,Café honey almond latte,3.96,20,79.2
+2023-09-02,Shanghai,Café cardamom latte,4.96,42,208.32
+2023-01-03,Budapest,Nitro Coffee,5.6,20,112.0
+2023-06-04,Sydney,Café toffee nut latte,7.88,28,220.64
+2023-07-20,Riyadh,Vienna Coffee,8.55,8,68.4
+2023-04-03,Singapore,Café cardamom latte,8.02,9,72.18
+2023-05-14,Auckland,Cafe Cubano,6.57,39,256.23
+2023-07-11,Mexico City,Café raspberry latte,2.86,17,48.62
+2023-02-04,Cairo,Café acai latte,2.63,41,107.83
+2023-05-19,Jakarta,Café Liégeois,3.86,18,69.48
+2023-05-01,Nairobi,Irish Coffee,3.94,27,106.38
+2023-01-27,Amsterdam,Café honey almond latte,6.08,27,164.16
+2023-10-25,Santiago,Café lavender latte,4.21,24,101.04
+2023-07-10,Stockholm,Cafe de Olla,9.83,16,157.28
+2023-07-03,Kathmandu,Iced Coffee,2.74,36,98.64
+2023-08-09,Kathmandu,Café quince latte,1.84,29,53.36
+2023-10-27,Copenhagen,Café oat latte,7.23,30,216.9
+2023-07-26,Paris,Vienna Coffee,9.32,22,205.04
+2023-02-27,Rome,Other,6.51,19,123.69
+2023-11-04,Kathmandu,Café strawberry latte,2.31,40,92.4
+2023-03-12,Stockholm,Cafe Breve,10.73,41,439.93
+2023-02-11,Auckland,Café saffron latte,6.16,38,234.08
+2023-07-22,Nairobi,Café chamomile latte,3.08,16,49.28
+2023-09-23,Cape Town,Café lemongrass latte,3.14,19,59.66
+2023-07-07,Bangalore,Café coconut latte,2.45,17,41.65
+2023-11-25,Johannesburg,Café kumquat latte,3.93,42,165.06
+2023-03-16,Mexico City,Café gingerbread mocha,4.96,11,54.56
+2023-06-09,Mumbai,Cafe Cubano,3.72,17,63.24
+2023-06-04,Prague,Café dirty chai,6.81,29,197.49
+2023-11-25,Bogotá,Café mango latte,2.92,63,183.96
+2023-07-26,Bangkok,Bulletproof Coffee,3.92,27,105.84
+2023-04-08,Johannesburg,Café Liégeois,5.49,46,252.54
+2023-04-18,Kuala Lumpur,Café rosehip latte,4.29,17,72.93
+2023-10-30,Tel Aviv,Café hibiscus latte,7.21,14,100.94
+2023-04-13,Warsaw,Café longan latte,4.15,27,112.05
+2023-01-03,Manila,Café baklava latte,2.81,19,53.39
+2023-10-31,Bogotá,Café honey almond latte,3.5,17,59.5
+2023-02-05,Kathmandu,Café Viennois,2.9,21,60.9
+2023-08-18,Riyadh,Café s'mores latte,4.08,10,40.8
+2023-01-30,Colombo,Café salak latte,2.36,19,44.84
+2023-06-09,Jakarta,Café persimmon latte,2.99,15,44.85
+2023-11-11,Vienna,Café peppermint latte,4.63,49,226.87
+2023-01-08,Hong Kong,Café fig latte,6.86,47,322.42
+2023-11-26,Santiago,Café pomegranate latte,3.23,54,174.42
+2023-11-10,Zurich,Flat White,5.6,11,61.6
+2023-08-14,Oslo,Café strawberry latte,5.8,20,116.0
+2023-06-02,Copenhagen,Cafe Cubano,8.73,10,87.3
+2023-03-22,Singapore,Café s'mores latte,6.18,14,86.52
+2023-10-29,Santiago,Café flan latte,3.12,35,109.2
+2023-03-16,Dhaka,Café matcha latte,1.93,20,38.6
+2023-01-21,Cape Town,Red Eye,2.66,29,77.14
+2023-06-22,Stockholm,Café cinnamon mocha,8.35,25,208.75
+2023-11-26,Paris,Café chestnut latte,7.89,33,260.37
+2023-04-29,Tel Aviv,Café salak latte,5.74,36,206.64
+2023-09-08,Surat,Café cranberry latte,2.34,22,51.48
+2023-04-26,Athens,Black Eye,3.08,29,89.32
+2023-03-15,Bogotá,Cafe de Olla,5.33,22,117.26
+2023-06-03,New York,Café lavender latte,6.84,25,171.0
+2023-09-20,Surat,Café nutmeg latte,2.39,19,45.41
+2023-01-29,Johannesburg,Café rosehip latte,3.67,47,172.49
+2023-11-20,Prague,Cappuccino,4.5,15,67.5
+2023-09-30,Delhi,Café churro latte,2.03,18,36.54
+2023-12-27,Casablanca,Café nutmeg latte,3.23,28,90.44
+2023-11-24,Cairo,Café Marocchino,3.08,11,33.88
+2023-05-10,London,Café salak latte,5.64,10,56.4
+2023-09-20,Jakarta,Café churro latte,2.37,19,45.03
+2023-02-04,Toronto,Café cinnamon mocha,7.27,26,189.02
+2023-03-06,Oslo,Ristretto,5.78,24,138.72
+2023-07-25,Brussels,Cafe de Olla,7.1,22,156.2
+2023-01-03,Lisbon,Café vanilla latte,4.29,11,47.19
+2023-10-23,Istanbul,Café con Panna,6.15,22,135.3
+2023-05-08,São Paulo,Café cannoli latte,3.76,21,78.96
+2023-06-17,Auckland,Café rosehip latte,4.96,34,168.64
+2023-09-23,Hanoi,Café persimmon latte,2.33,38,88.54
+2023-07-20,Singapore,Café London fog,9.69,19,184.11
+2023-09-04,Singapore,Turkish Coffee,8.76,27,236.52
+2023-07-01,Shanghai,Café pumpkin pie latte,4.28,20,85.6
+2023-05-05,Kathmandu,Café macadamia latte,2.4,18,43.2
+2023-01-14,Jakarta,Café chai latte,2.74,32,87.68
+2023-03-01,Bangalore,Café jasmine latte,2.11,18,37.98
+2023-09-09,Hong Kong,Café almond latte,6.02,37,222.74
+2023-05-15,Tel Aviv,Café matcha latte,7.69,30,230.7
+2023-10-09,Bogotá,Cafe au Lait,4.41,25,110.25
+2023-11-13,Stockholm,Café turmeric latte,5.19,10,51.9
+2023-05-06,Jakarta,Café fig latte,2.27,31,70.37
+2023-08-21,Singapore,Café caramel macchiato,5.94,14,83.16
+2023-07-26,Istanbul,Café churro latte,5.41,15,81.15
+2023-03-13,Hong Kong,Café chamomile latte,7.63,30,228.9
+2023-11-09,Casablanca,Café pumpkin pie latte,3.42,32,109.44
+2023-01-06,Prague,Mocha,6.29,12,75.48
+2023-05-28,Tel Aviv,Espresso,3.26,16,52.16
+2023-05-30,Singapore,Café royale,9.29,17,157.93
+2023-09-05,Madrid,Frappuccino,7.99,12,95.88
+2023-11-12,Kuala Lumpur,Café earl grey latte,3.26,28,91.28
+2023-04-24,São Paulo,Café turmeric latte,4.08,8,32.64
+2023-10-09,Cairo,Latte,2.38,20,47.6
+2023-10-13,Singapore,Café jackfruit latte,7.04,11,77.44
+2023-09-27,Toronto,Macchiato,6.65,12,79.8
+2023-10-21,Tel Aviv,Café dirty chai,9.82,21,206.22
+2023-07-30,New York,Café caramel mocha,9.41,55,517.55
+2023-03-17,Oslo,Café frappé,10.51,19,199.69
+2023-06-06,Surat,Mocha,2.44,16,39.04
+2023-12-04,Hong Kong,Café golden latte,6.56,29,190.24
+2023-09-28,Kathmandu,Black Eye,1.8,26,46.8
+2023-07-08,Singapore,Café cinnamon roll latte,6.62,46,304.52
+2023-07-19,Shanghai,Café vanilla latte,5.82,16,93.12
+2023-10-02,Athens,Café durian latte,4.94,21,103.74
+2023-12-06,Singapore,Café cherimoya latte,6.02,28,168.56
+2023-10-25,Cape Town,Latte,4.28,13,55.64
+2023-06-28,Cairo,Café strawberry latte,2.14,11,23.54
+2023-08-26,Madrid,Café pumpkin pie latte,6.28,39,244.92
+2023-07-26,Riyadh,Café nutmeg latte,6.21,9,55.89
+2023-12-21,Beijing,Café banana latte,5.99,14,83.86
+2023-06-11,Paris,Café tropical latte,5.36,45,241.2
+2023-08-04,Cairo,Café chai latte,2.27,22,49.94
+2023-02-02,London,Café acai latte,8.02,12,96.24
+2023-12-24,Auckland,Doppio,3.46,20,69.2
+2023-09-11,Brussels,Café hazelnut mocha,7.18,14,100.52
+2023-03-09,Manila,Iced Coffee,3.15,12,37.8
+2023-10-05,Dubai,Café London fog,10.78,11,118.58
+2023-09-03,Vienna,Espresso,4.82,22,106.04
+2023-01-18,Lisbon,Café ginger latte,3.78,21,79.38
+2023-10-06,Auckland,Café golden latte,4.44,15,66.6
+2023-05-27,Buenos Aires,Café rose latte,3.18,15,47.7
+2023-12-16,Sydney,Café London fog,11.52,22,253.44
+2023-10-25,Copenhagen,Café dulce de leche latte,6.16,13,80.08
+2023-07-10,São Paulo,Café cinnamon roll latte,4.47,8,35.76
+2023-07-21,Zurich,Café longan latte,6.3,24,151.2
+2023-03-25,Jakarta,Café pomegranate latte,3.18,36,114.48
+2023-09-08,Sydney,Café pecan latte,7.59,14,106.26
+2023-01-31,Karachi,Nitro Coffee,2.4,20,48.0
+2023-11-22,Vienna,Café tiramisu latte,4.55,27,122.85
+2023-07-01,Madrid,Café starfruit latte,4.59,32,146.88
+2023-10-14,Karachi,Cafe con Leche,2.97,28,83.16
+2023-07-06,Lima,Café rambutan latte,2.81,26,73.06
+2023-01-09,Paris,Nitro Coffee,8.58,21,180.18
+2023-01-20,Surat,Café Marocchino,3.45,11,37.95
+2023-12-07,Paris,Café vanilla latte,6.44,19,122.36
+2023-10-21,Dubai,Café con Hielo,10.66,40,426.4
+2023-08-12,Rome,Café hazelnut latte,6.45,28,180.6
+2023-09-24,Taipei,Café spiced turmeric latte,5.83,36,209.88
+2023-09-17,Nairobi,Nitro Coffee,2.84,17,48.28
+2023-04-10,Lima,Café baklava latte,2.51,11,27.61
+2023-10-13,Copenhagen,Ristretto,3.37,22,74.14
+2023-08-30,Tel Aviv,Café Liégeois,9.89,27,267.03
+2023-12-16,Mumbai,Café hazelnut mocha,3.82,48,183.36
+2023-05-22,Sydney,Doppio,5.64,12,67.68
+2023-08-16,Lima,Café hazelnut mocha,4.04,28,113.12
+2023-10-26,Cape Town,Café rose latte,2.86,27,77.22
+2023-05-15,Bogotá,Macchiato,3.7,13,48.1
+2023-06-26,Copenhagen,Café Bombón,9.6,12,115.2
+2023-07-08,Oslo,Café sapodilla latte,8.28,39,322.92
+2023-10-12,Athens,Café churro latte,3.74,13,48.62
+2023-02-14,Dhaka,Café sapodilla latte,1.86,11,20.46
+2023-10-31,Beijing,Café soursop latte,4.03,19,76.57
+2023-12-28,Hong Kong,Frappuccino,8.67,18,156.06
+2023-05-10,Istanbul,Café cinnamon mocha,6.27,34,213.18
+2023-07-27,Delhi,Café hibiscus latte,2.64,11,29.04
+2023-11-20,Cape Town,Café s'mores latte,4.23,36,152.28
+2023-02-15,Cape Town,Café coconut cream latte,2.91,13,37.83
+2023-07-04,Manila,Café quince latte,2.88,15,43.2
+2023-05-08,Zurich,Café dark chocolate mocha,10.77,24,258.48
+2023-12-08,Kathmandu,Café gingerbread mocha,2.32,35,81.2
+2023-11-22,Singapore,Café flan latte,6.68,18,120.24
