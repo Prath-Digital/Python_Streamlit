@@ -58,8 +58,8 @@ Welcome to the Python Streamlit repository! This project is designed to help you
 
 | **Sr. No.** | **Project Name**  |                                **Link**                                 |                            **Streamlit app link**                            |
 | :---------: | :---------------: | :---------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-|      1      |  Pr. 1 Todo List  |   [Pr. 1 Todo List](https://github.com/Prath-Digital/Pr.-1-Todo-List)   |   [Pr. 1 Todo List](https://pr-1-todo-list---prath-digital.streamlit.app/)   |
-|      2      | Pr. 2 Weather App | [Pr. 2 Weather App](https://github.com/Prath-Digital/Pr.-2-Weather-App) | [Pr. 2 Weather App](https://pr-2-weather-app---prath-digital.streamlit.app/) |
+|      1      |  Pr. 1 Todo List  |   [Pr. 1 Todo List](https://github.com/Prath-Digital/Python_Streamlit_Pr.-1-Todo-List)   |   [Pr. 1 Todo List](https://pr-1-todo-list---prath-digital.streamlit.app/)   |
+|      2      | Pr. 2 Weather App | [Pr. 2 Weather App](https://github.com/Prath-Digital/Python_Streamlit_Pr.-2-Weather-App) | [Pr. 2 Weather App](https://pr-2-weather-app---prath-digital.streamlit.app/) |
 
 ## Example Datasets
 
